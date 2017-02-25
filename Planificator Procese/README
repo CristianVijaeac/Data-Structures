@@ -1,0 +1,64 @@
+	Programul are un numar de 4 functii principale a caror functionalitatea se bazeaza pe alte functii:
+1)START
+	-functia start insereaza elementele/celulele intr-o coada de prioritati in functie de prioritate si pasul la care sunt adaugate
+	-primeste ca parametrii coada,ID,PRIORITY,PAS
+	-construieste celula cu aceste informatii si trece la inserare
+	-primul caz este cel in care coada este vida,deci se insereaza ca prim element in coada(se schimba si coada si sfarsitul)
+	-al doilea caz este acela in care coada nu este vida insa trebuie sa inseram la inceput si astfel se schimba inceputul cozii
+	-al treilea caz este cel de sfarsit,in care trebuie sa inseram la sfarsitul cozii si astfel se schimba sfarsitul acesteia
+	-al patrulea caz este cel de mijloc,unde inseram inauntrul cozii,dupa un element cu o prioritate mai mare
+	-in cazul in care 2 elemente au aceeasi prioritate,se insereaza in ordinea pasului la care sunt adaugate celulele
+
+2)WAIT
+	-functia wait primeste ca parametrii o stiva,coada de prioritati si ID-ul elementului ce trebuie inserat in stiva
+	-se initializeaza o coada auxiliara in care vom pastra toate elementele din coada aflate inaintea elementului cautat de noi
+	-daca avem coada vida,se iese din functie neavand ce sa extragem
+	-parcurgem lista pana gasim elementul avand ID-ul dat
+						-daca elementul gasit este singurul din lista,se extrage folosind functia ExtrageC si se insereaza folosind
+						functia Push de inserare in stiva si coada noastra devine vida
+						-daca elementul gasit este primul dintr o lista nevinda,se extrage folosind functia ExtrageC si se insereaza folosind
+						functia Push de inserare in stiva iar inceputul liste se schimba
+						-daca elementul gasit este primul dintr o lista nevinda,se extrage folosind functia ExtrageC si se insereaza folosind
+						functia Push de inserare in stiva iar inceputul listei se schimba
+						OBS:Intotdeauna elementul cautate care urmeaza sa fie extras va fi primul in coada
+	-elementele care au ID-ul diferit de cel dat vor fi extrase folosind functia ExtrageC din coada si inserate pe rand in coada auxiliara folosind functia InserareC
+	-dupa ce elementul cautat a fost inserat in stiva,toate elementele din coada auxiliara vor fi reinserate in coada initiala in aceeasi ordine folosind functiile
+	mai sus mentionate
+
+3)EVENT
+	-functia event primeste ca parametru coada si stiva aferenta evenimentului ce urmeaza sa se intample
+	-functia extrage toate elemente din coada si le insereaza inapoi in coada in functie de prioritatea si pasul la care au fost adaugate
+	-functia parcurge toata stiva,extrage fiecare element si il insereaza in coada cu ajutorul functiei InsOrd
+				-initial se verifica daca avem o coada vida,iar in acest caz se insereaza elementul la inceput,inceputul si sfarsitul cozii punctand
+				spre acest element
+				-parcurgem coada pentru inserare si deosebim 2 cazuri
+					-in cazul in care se intalnesc 2 elemente cu prioritati egale,se va insera in functie de elementul adaugat la PASUL CEL MAI MIC
+					-in cazul in care se ajunge la sfarsitul cozii,adica nu s-a gasit un element cu ID egal cu cel ce trebuie inserat,se va insera
+					in functie de prioritate
+
+4)END
+	-functia end primeste ca parametru coada si ID-ul unui element
+	-functia elimina si distruge celula care contine un ID egal cu cel dat
+	-se parcurge coada pana se gaseste un element cu ID egal
+	-se disting mai multe cazuri:
+		-daca elementul este singurul din coada,coada va devenii vida
+		-daca elementul este primul din coada iar coada e nevida,inceputul acesteia se schimba
+		-daca elementul este ultimul din coada,sfarsitul acesteia se schimba
+		-daca elementul se gaseste inauntrul cozii,se face legatura dintre elementul anterior si elementul urmator.
+	-dupa fieacare caz,se distruge celula si se elibereaza memoria
+
+5)MAIN
+	-in functia main se construieste coada cu ajutorul functiei InitC si se construieste si vectorul de stive,fiecare stiva fiind alocata dinamica prin intermediul
+	functiei InitS
+	-se parcurge fisierul de intrare linie cu linie,apoi cuvant cu cuvant
+	-se compara primul cuvant de pe linie cu start,wait,event,end
+	-daca unul din aceste cuvinte este gasit,se intra pe ramura aferenta lui si se executa functia si setul de instructiuni
+	-se extrage in continuare,de pe linie,parametrii necesari pentru rularea functiei
+	-la sfarsitul rularii functiei,se afiseaza numarul pasului la care suntem,coada(cu ajutorul functiei AfiC) si fiecare stiva nevida in parte(cu ajutorul functiei AfiS),stivele nevide fiind ignorate
+	-dupa acest lucru,se trece la urmatoarea linie si tot asa
+	-la sfarsitul citirii din fisier,se inchid fisierele de intrare si iesire si se elibereaza memoria alocata in decursul programului cu ajutorul functiilor
+	DistrugeC(eliberarea memoriei pentru coada),DistrugeS(eliberarea memoriei pentru stiva) si DistrugeLG(eliberarea listelor generice)
+
+OBS:Scrierea se va face numai in fisier,deschis la inceputul functiei main.
+
+

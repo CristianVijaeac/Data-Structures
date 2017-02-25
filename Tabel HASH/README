@@ -1,0 +1,54 @@
+Pentru rezolvarea acestei teme,am folosti 3 structuri de date:
+	1)Structura TDNS care contine numele(KEY) si IP-ul(VALUE).
+	2)Structura pentru o lista generica TCelulaG,*TLG,**ALG,care contine informatia dintr-o celula(info) si pointer la urmatoarea celula din lista (*urm).	
+	3)Structura THash,structura pentru HashTable,care contine numarul maxim de bucket-uri(liste generice) M,pointer la structura TLG si pointer la functia de dispersie "hashf".
+	Toate cele 3 structuri au fost declarate in fisierul "HashTable.h".
+
+
+FUNCTIA "HASHF"
+	Functia primeste ca parametru un nume(KEY) si numarul maxim de bucket-uri (M).Aceasta calculeaza suma tuturor caracterelor(folosind codurile ASCII) impartite la numarul maxim de bucket-uri.Functia returneaza restul acestei impartiri(indicele unui bucket).
+
+
+FUNCTIA "INITHASH"
+	Functia initializeaza o structura de tipul THash,alocand memoria necesara pentru fieacare din campurile sale.In cazul in care unul din campuri nu a putut fi alocat,functia va elibera toata memoria alocata anterior si va intoarce "NULL".
+
+
+FUNCTIA "CONSTRCELULA"
+	Functia initializeaza o celula care contine nume(KEY),ip(VALUE) si pointer la o celula urmatoare(initializat cu NULL).Aceasta primeste ca parametrii KEY(nume),VALUE(ip),aloca memoria necesara unei celule de acest tip si copiaza KEY si VALUE in campul info al celulei.In cazul in care una din alocari nu a reusit,se va elibera toata memoria alocata anterior si se va intoarce "NULL".
+
+
+FUNCTIA "PUT"
+	Functia insereaza o celula intr-o lista apartinand unui anumit bucket.Functia primeste ca parametru nume(KEY),IP(VALUE),tabela Hash(THash *H) si numarul maxim de bucket-uri.Initial,aceasta construieste mai intai celula ce urmeaza a fi inserata.In functie de KEY,se apeleaza functia "hashf" care returneaza indicele bucket-ului (listei generice din HashTabel) in care va fi inserata celula construita anterior.Pentru inserare,se deosebesc mai multe cazuri:
+	1)Bucket-ul este NULL:in acest caz,celula va reprezenta chiar inceputul listei generice.
+	2)Bucket-ul nu este NULL,insa celula se afla deja inserata in lista.In acest caz,se va elibera memoria alocata pentru celula,aceasta nefiind inserata.
+	3)Celula nu se afla deja,deci vom face o inserare ordonata alfabetic in functie de KEY.In cazul acesta,inserarea se va face intotdeauna inainte elementului mai mare(din punct de vedere alfabetic)
+	4)Daca celula trebuie inserata inainte de primul element de lista,inceputul listei se va schimba.
+	5)Daca celula trebuie inserata in lista,se rupe legatura dintre celula anterioara si celula inaintea careia trebuie sa inseram noua celula,astfel ca celula anterioara va avea dupa ea celula nou inserata,iar celula inaintea careia trebuie sa inseram se va afla dupa celula nou inserata.
+	6)Daca ajungem pana la sfarsitul listei,elementul neexistand in lista si fiind mai mare decat toate celelalte elemente,se va face inseara la sfarsit si astfel celula anterioara va avea dupa ea celula nou formata,iar dupa celula nou formata se va afla "NULL".
+
+FUNCTIA "PRINT"
+	Functia primeste ca parametru tabela Hash,numarul maxim de bucket-uri si fisierul de output.Functia va parcurge toate bucket-uri si toate listele generice si va scrie in fisier IP-ul(VALUE) fiecarei celule gasite in tabela.
+
+FUNCTIA "PRINT_BUCKET"
+	Functia primeste ca parametru tabela Hash,un indice k care reprezinta indicile bucket-ului asupra caruia vom face prelucarea si fisierul de output.Functia afiseaza toate IP-urile(VALUE) gasite in celulele apartinand listei generice aflata in bucket-ul cu indicele k.
+
+FUNCTIA "GET"
+	FUnctia primeste ca parametru tabela Hash,numarul maxim de bucket-uri si numele(KEY).Functia va intoarce IP-ul(VALUE) aflat in aceeasi celula cu numele trimis(KEY).Daca KEY nu exista in HashTabel,se va intoarce null.Aceasta calculeaza bucket-ul in care este posibil sa existe celula cu KEY data cu ajutorul functiei hash.Lista generica aferenta bucket-ului este parcursa comparandu-se KEY cu toate elementele de acelasi tip gasite in celula.
+
+FUNCTIA "FIND"
+	Functia primeste ca parametru tabela Hash,numele(KEY) si numarul maxim de bucket-uri.Functia va intoarce valoar 1,daca KEY este gasit in tabela sau 0 in caz contrar.Mai intai,cu ajutorul functie hashf,functia calculeaza bucket-ul in care este posibil sa se afle KEY.O data gasit,parcurge lista generica si compara fiecare element de tipul KEY,cu numele nostru.
+
+FUNCTIA "REMOVE"
+	Functia primeste ca parametru tabela,numarul maxim de bucket-uri si o valoare(KEY).Functia are ca scop eliminarea celulei aferent numelui dat(KEY) din lista respectiva.Initial,se apeleaza functia hasf pentru aflarea bucket-ului,respectiv a listei generice unde se afla KEY.Dupa acest pas,se compara toate elementele de tipul KEY din lista respectiva cu KEY primita ca parametru.Daca elementul este gasit,se deosebesc mai multe cazuri:
+	1)Elementul gasit este chiar primul element din lista.In acest caz,legatura dintre inceputul listei si celula se va rupe,inceputul listei punctand catre celula urmatoare.Se elibereaza memoria ocupata de celula.
+	2)Elementul gasit se afla in lista(nici inceput,nici sfarsit).In acest caz,se rupe legatura cu celula anterioara si urmatoare,si se reface legatura astfel incat celula anterioara sa puncteze catre celula urmatoare celulei gasite de noi.Se elibereaza memoria ocupata de celula.
+	3)Elementul gasit se afla la sfarsitul liste.In acest caz,se rupe legatura cu celula anterioara urmand ca aceasta sa puncteze catre null.Se elibereaza memoria alocata de celula noastra.
+
+FUNCTIA "DISTRUGELG"
+	Functia primeste ca parametru adresa listei ce urmeaza sa fie distruse si astfel se elibereaza,pe rand,fiecare celula(fiecare camp si legaturile) urmand ca apoi sa se elibereze lista,in final ea devenind null.
+
+FUNCTIA "DISTRUGETHASH"
+	Functia primeste ca parametru adresa tabelei si numarul maxim de bucket-uri.Astfel,se parcurge intreg HashTabel-ul,bucket cu bucket,si se apeleaza functia DistrugeLG pentru eliberarea memoriei ocupata de lista generica in acel bucket.Se elibereaza memoria ocupata de bucket-uri si de tabela.
+
+MAIN
+	Main primeste ca parametrii argc,argv[] pentru a putea face posibila citirea din linie de comanda.Astfel argv[1] va reprezenta numarul maxim de bucket-uri(M)(ne folosim de functia atoi pentru a extrage elementul ca un intreg,nu ca sir de caractere),argv[2] va fi fisierul de input(fr) si argv[3] fisierul de output(fw).Se aloca memorie pentru citirea fiecarei linii din fisier.Urmatorul pas este parcurgea fisierului linie cu linie.In urma acestui pas,se extrage primul cuvant din linie(comanda) si se compara cu sirurile de caracter reprezentand numele functiilor.Cand se intalneste unul din siruri,se va apela functia.Daca avem nevoie de urmatoarele siruri de caractere din linie(de exemplu KEY,VALUE sau indicele bucket-ului) vom apela din nou functia strtok(avanseaza la urmatorul cuvant),respectiv functia atoi(strtok....) pentru extragerea unui intreg.La finalul main-ului,se inchid cele doua fisiere,se apeleaza functia "DistrugereTHash" pentru eliberarea completa a memoriei utilizate si se elibereaza memoria ocupata de citirea liniilor.

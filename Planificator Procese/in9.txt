@@ -1,0 +1,6942 @@
+35
+start 68 12
+start 46 1
+start 26 21
+start 69 25
+wait 1 68
+wait 4 26
+wait 20 46
+start 65 10
+start 72 27
+wait 29 65
+wait 12 72
+wait 15 69
+event 4
+wait 5 26
+event 20
+start 10 26
+wait 30 46
+wait 23 10
+start 36 26
+wait 13 36
+start 61 5
+wait 1 61
+start 37 22
+wait 3 37
+start 24 3
+event 23
+wait 20 24
+wait 20 10
+start 80 23
+wait 4 80
+start 27 19
+start 40 8
+event 15
+wait 20 40
+event 3
+start 56 14
+wait 26 69
+wait 5 27
+wait 31 56
+wait 11 37
+start 41 15
+start 45 10
+wait 26 41
+wait 2 45
+start 59 17
+wait 22 59
+start 4 11
+wait 9 4
+start 64 22
+start 13 13
+wait 1 13
+wait 21 64
+start 5 30
+wait 1 5
+event 22
+end 41
+end 64
+wait 12 59
+start 21 5
+wait 29 21
+event 20
+wait 3 10
+start 38 3
+wait 9 38
+wait 2 24
+wait 25 40
+start 54 8
+wait 31 54
+start 51 23
+start 50 11
+start 8 18
+event 21
+start 58 6
+event 26
+wait 7 64
+event 5
+end 38
+start 66 14
+wait 6 50
+wait 10 69
+end 58
+start 67 9
+start 31 17
+wait 31 27
+start 12 15
+wait 15 66
+start 70 29
+wait 16 12
+wait 32 26
+wait 28 70
+event 3
+event 9
+start 28 11
+wait 13 41
+start 55 24
+start 22 26
+wait 10 10
+wait 19 38
+wait 12 51
+wait 32 8
+end 31
+wait 31 55
+wait 20 67
+start 7 7
+wait 11 22
+wait 30 7
+event 25
+wait 22 28
+wait 13 4
+wait 21 40
+start 77 20
+wait 0 77
+end 69
+start 57 1
+wait 7 57
+end 54
+start 2 28
+wait 18 2
+end 54
+end 7
+start 34 22
+wait 14 34
+end 37
+start 32 23
+wait 13 32
+start 15 17
+start 44 29
+wait 25 44
+wait 17 15
+event 20
+wait 14 67
+end 22
+start 20 6
+end 54
+end 70
+end 5
+wait 22 20
+event 22
+start 43 2
+start 47 8
+wait 28 47
+start 71 23
+event 7
+wait 31 43
+end 46
+wait 28 28
+start 49 12
+wait 24 20
+event 14
+wait 33 67
+wait 27 71
+start 79 30
+event 10
+wait 10 64
+event 15
+wait 33 10
+wait 13 49
+start 17 6
+start 35 11
+wait 17 17
+wait 33 79
+start 48 4
+wait 15 35
+wait 7 66
+wait 32 57
+event 19
+wait 33 38
+wait 31 69
+start 62 9
+wait 12 34
+start 16 18
+wait 0 62
+wait 26 16
+start 75 27
+start 14 19
+end 67
+end 26
+wait 32 14
+event 4
+event 15
+wait 18 48
+wait 9 35
+wait 11 80
+start 74 5
+start 30 2
+event 9
+end 72
+wait 14 35
+event 31
+start 39 3
+wait 15 55
+event 6
+event 28
+event 13
+wait 21 56
+end 36
+wait 0 47
+wait 32 54
+event 30
+wait 12 75
+wait 2 32
+wait 14 4
+event 12
+wait 29 41
+end 37
+start 3 13
+wait 29 51
+wait 6 59
+event 25
+start 11 19
+wait 30 43
+start 19 18
+start 18 11
+start 42 30
+start 29 11
+wait 17 7
+end 3
+event 29
+start 53 7
+wait 26 49
+event 0
+wait 31 39
+wait 25 50
+start 9 6
+start 78 1
+wait 27 11
+wait 17 62
+wait 25 30
+start 6 7
+start 52 3
+wait 10 41
+end 5
+end 52
+start 60 22
+start 23 29
+wait 14 29
+end 29
+wait 19 75
+event 30
+start 33 20
+wait 16 51
+wait 14 47
+start 1 21
+wait 19 33
+wait 3 72
+start 25 5
+event 6
+event 7
+event 19
+event 3
+event 25
+end 59
+wait 19 65
+wait 16 30
+wait 9 75
+event 2
+event 24
+wait 17 6
+event 11
+end 51
+start 73 21
+start 76 29
+event 19
+wait 20 70
+start 63 28
+wait 27 22
+wait 13 50
+end 6
+end 7
+end 39
+end 9
+wait 9 34
+event 10
+event 18
+end 25
+wait 32 76
+end 37
+wait 16 42
+wait 30 60
+end 80
+end 12
+end 50
+wait 24 2
+wait 15 45
+event 24
+event 31
+wait 10 66
+wait 30 43
+end 7
+event 17
+wait 20 28
+end 75
+event 26
+wait 23 62
+wait 0 19
+wait 33 15
+end 64
+wait 10 20
+wait 5 73
+event 5
+end 6
+wait 21 73
+event 20
+wait 31 48
+wait 8 74
+event 8
+wait 26 70
+wait 24 24
+wait 7 63
+wait 0 27
+end 71
+end 15
+wait 24 77
+end 53
+end 60
+wait 31 41
+wait 30 44
+wait 20 17
+event 23
+event 20
+end 30
+wait 24 16
+wait 7 32
+wait 16 46
+wait 9 7
+wait 23 49
+wait 15 78
+wait 4 74
+end 63
+wait 20 17
+wait 5 18
+wait 11 21
+event 30
+wait 7 2
+wait 11 44
+wait 16 33
+end 49
+wait 33 60
+wait 4 65
+event 13
+event 0
+wait 16 43
+end 71
+wait 6 27
+wait 9 72
+wait 17 19
+wait 14 28
+wait 30 50
+wait 1 1
+wait 1 69
+wait 10 62
+event 5
+wait 4 18
+wait 18 23
+end 15
+end 8
+end 18
+wait 1 39
+end 73
+end 60
+event 30
+end 43
+wait 30 50
+end 44
+event 16
+event 11
+wait 18 30
+wait 29 51
+wait 25 21
+wait 22 46
+end 8
+event 31
+event 32
+wait 30 8
+wait 2 33
+wait 31 26
+end 17
+end 76
+event 24
+wait 33 57
+wait 33 48
+wait 25 24
+event 2
+event 20
+wait 11 54
+wait 31 41
+event 21
+wait 29 12
+wait 30 43
+end 5
+wait 19 42
+end 61
+end 21
+end 19
+event 22
+end 23
+wait 30 77
+end 26
+end 71
+wait 29 14
+end 1
+end 34
+end 75
+wait 19 73
+wait 31 16
+wait 20 46
+event 19
+wait 26 33
+wait 19 40
+wait 0 44
+wait 34 17
+wait 18 73
+wait 17 42
+end 13
+wait 33 56
+end 46
+end 68
+end 56
+event 10
+end 77
+end 55
+event 7
+end 63
+end 33
+event 29
+wait 12 66
+wait 10 20
+wait 32 32
+wait 5 14
+wait 23 2
+end 43
+event 32
+event 5
+wait 33 12
+event 10
+event 33
+wait 3 10
+event 15
+event 4
+wait 5 12
+end 29
+end 73
+wait 1 14
+end 42
+wait 27 65
+event 23
+event 1
+end 8
+end 51
+wait 18 5
+wait 31 79
+wait 19 48
+end 27
+event 19
+wait 24 55
+wait 5 49
+end 77
+wait 27 48
+wait 21 78
+wait 25 38
+wait 21 13
+wait 9 68
+event 0
+end 68
+wait 31 39
+end 1
+wait 9 67
+wait 9 44
+event 6
+event 25
+event 9
+wait 32 20
+end 67
+wait 2 44
+wait 10 32
+wait 26 14
+wait 8 74
+wait 4 15
+event 11
+event 3
+wait 34 56
+wait 33 60
+wait 16 38
+wait 27 27
+wait 20 72
+wait 16 68
+event 26
+wait 6 10
+wait 0 57
+wait 30 21
+end 30
+wait 4 34
+wait 34 69
+end 47
+event 17
+wait 5 42
+wait 4 19
+event 33
+wait 27 54
+end 65
+wait 20 75
+wait 23 7
+wait 15 70
+wait 19 61
+end 17
+end 74
+end 10
+wait 12 24
+event 8
+wait 2 74
+wait 31 45
+end 32
+wait 30 18
+event 20
+wait 12 33
+end 39
+wait 4 40
+end 56
+wait 31 72
+end 20
+wait 3 60
+wait 19 14
+wait 33 75
+event 3
+event 19
+end 62
+end 75
+wait 6 14
+wait 21 46
+wait 9 60
+wait 6 61
+wait 14 2
+end 17
+end 5
+event 12
+wait 12 24
+end 12
+event 10
+end 35
+end 14
+wait 15 66
+end 70
+wait 20 32
+wait 26 33
+end 20
+event 12
+wait 31 24
+end 79
+end 49
+end 4
+event 16
+wait 8 68
+event 20
+wait 25 38
+event 26
+wait 6 33
+wait 2 32
+end 5
+end 77
+end 24
+end 54
+event 34
+event 2
+event 15
+wait 4 69
+wait 24 56
+wait 3 32
+wait 22 44
+event 5
+wait 17 42
+wait 32 17
+event 31
+event 30
+end 23
+wait 15 18
+wait 28 49
+end 69
+wait 18 50
+wait 0 77
+wait 32 26
+wait 33 43
+wait 34 74
+event 21
+wait 17 45
+wait 0 24
+wait 25 78
+end 75
+wait 26 13
+event 14
+wait 4 21
+wait 29 47
+event 25
+event 0
+wait 20 70
+end 71
+wait 11 77
+wait 14 24
+wait 28 39
+wait 6 28
+wait 34 66
+wait 30 79
+end 24
+wait 32 16
+end 70
+end 48
+end 41
+end 20
+event 24
+wait 9 38
+wait 17 72
+wait 3 29
+wait 10 46
+wait 2 55
+wait 16 78
+end 32
+wait 29 57
+event 15
+wait 26 4
+wait 19 18
+wait 2 12
+wait 9 56
+end 48
+event 29
+wait 23 35
+wait 28 2
+wait 23 47
+end 74
+wait 25 8
+wait 32 57
+end 78
+end 44
+event 19
+wait 16 18
+end 27
+end 65
+event 23
+event 14
+wait 25 35
+wait 20 47
+end 29
+event 33
+wait 7 7
+end 14
+wait 9 24
+wait 13 43
+end 14
+event 13
+wait 5 43
+event 4
+end 33
+end 12
+wait 3 21
+wait 25 19
+wait 3 69
+end 30
+wait 9 15
+wait 19 34
+wait 9 40
+wait 22 75
+end 68
+event 19
+event 27
+wait 34 48
+wait 30 71
+end 75
+event 34
+event 28
+wait 4 34
+wait 1 74
+wait 22 48
+end 22
+wait 33 11
+event 20
+wait 13 66
+event 10
+wait 32 49
+wait 30 46
+end 32
+end 12
+event 33
+wait 33 65
+wait 31 47
+event 25
+wait 30 2
+wait 29 19
+wait 0 39
+wait 34 35
+wait 27 27
+event 22
+end 77
+end 27
+end 10
+wait 19 8
+wait 1 44
+wait 25 70
+end 69
+event 16
+wait 24 75
+end 12
+end 79
+wait 19 78
+wait 31 54
+wait 26 48
+wait 5 18
+wait 13 11
+event 30
+end 35
+event 13
+event 4
+wait 26 34
+wait 25 46
+wait 16 71
+end 34
+end 18
+wait 9 79
+wait 3 11
+wait 30 2
+end 18
+event 29
+wait 30 66
+event 1
+end 2
+end 79
+end 14
+wait 33 19
+wait 5 44
+end 38
+wait 4 74
+event 34
+wait 10 35
+event 11
+event 2
+wait 8 12
+wait 22 55
+wait 22 77
+end 4
+end 60
+end 61
+end 75
+end 5
+event 7
+wait 22 7
+event 10
+wait 17 35
+end 38
+end 77
+end 4
+event 9
+wait 31 40
+wait 5 79
+wait 30 15
+event 6
+wait 22 33
+wait 23 60
+event 16
+wait 5 61
+wait 7 28
+wait 24 38
+wait 11 24
+wait 4 56
+wait 10 71
+wait 11 10
+event 17
+wait 31 14
+wait 34 45
+wait 30 72
+wait 17 35
+wait 22 42
+event 25
+wait 27 46
+wait 9 70
+end 17
+end 60
+end 77
+end 54
+end 55
+end 66
+event 11
+end 34
+event 17
+wait 28 35
+wait 8 24
+wait 0 10
+event 10
+end 14
+end 8
+event 3
+wait 14 29
+wait 31 21
+end 33
+wait 34 71
+wait 25 32
+wait 2 11
+wait 0 69
+end 54
+end 39
+end 45
+event 0
+wait 0 10
+end 68
+wait 11 69
+wait 8 39
+end 19
+event 9
+wait 8 70
+event 33
+wait 20 19
+wait 28 65
+event 26
+wait 26 34
+event 31
+wait 14 13
+wait 10 54
+wait 18 21
+wait 27 14
+event 2
+wait 1 11
+wait 8 40
+end 19
+wait 16 47
+wait 26 48
+event 20
+wait 30 19
+wait 6 4
+event 10
+wait 24 54
+end 75
+event 34
+wait 29 71
+wait 32 45
+end 32
+event 22
+wait 34 33
+wait 13 42
+wait 28 7
+wait 20 55
+end 15
+event 30
+event 14
+end 44
+event 25
+event 16
+wait 18 19
+event 32
+wait 23 66
+wait 17 2
+wait 27 20
+wait 1 29
+wait 10 77
+end 65
+wait 26 16
+wait 19 32
+wait 14 45
+end 10
+end 49
+wait 1 57
+wait 2 26
+event 29
+wait 33 47
+end 7
+end 48
+wait 19 71
+wait 20 13
+wait 22 17
+wait 8 72
+end 40
+end 13
+wait 20 15
+end 32
+event 23
+end 7
+wait 16 60
+wait 1 66
+event 5
+end 56
+wait 26 44
+wait 17 61
+wait 8 43
+end 15
+wait 23 18
+wait 24 79
+event 18
+wait 16 5
+wait 25 50
+event 26
+wait 5 30
+end 75
+event 13
+wait 19 44
+end 79
+wait 22 16
+event 23
+wait 16 23
+wait 24 21
+end 66
+wait 11 19
+event 1
+wait 3 11
+wait 20 18
+wait 0 29
+event 22
+end 39
+end 78
+wait 21 17
+end 16
+end 5
+end 46
+wait 8 73
+wait 16 34
+wait 2 66
+wait 8 42
+wait 30 48
+end 7
+end 71
+end 72
+wait 30 57
+end 60
+end 11
+end 30
+end 19
+event 7
+event 6
+end 21
+wait 8 28
+end 71
+wait 8 4
+end 68
+end 74
+event 19
+wait 15 44
+wait 33 78
+wait 0 71
+wait 1 32
+end 8
+end 65
+event 15
+end 43
+wait 20 44
+end 55
+end 28
+end 69
+end 17
+end 18
+event 8
+wait 0 24
+event 11
+wait 17 12
+end 26
+end 66
+wait 26 28
+end 2
+end 54
+wait 13 39
+end 60
+wait 6 42
+wait 13 72
+wait 34 68
+wait 8 70
+wait 34 69
+event 6
+wait 8 4
+wait 3 42
+end 60
+wait 3 43
+event 27
+wait 3 40
+end 68
+wait 4 27
+end 47
+wait 18 20
+wait 19 73
+event 16
+end 24
+event 19
+event 0
+event 30
+wait 32 46
+end 19
+wait 26 57
+wait 6 29
+event 3
+event 26
+event 18
+wait 29 57
+wait 15 5
+wait 12 23
+end 11
+wait 27 24
+wait 26 48
+wait 33 40
+wait 3 60
+wait 1 10
+wait 26 34
+wait 7 14
+wait 31 42
+wait 17 71
+end 65
+end 71
+wait 3 43
+wait 23 28
+end 24
+event 21
+wait 29 73
+wait 28 17
+wait 11 20
+event 32
+wait 13 46
+event 28
+wait 32 65
+wait 20 7
+wait 22 17
+wait 16 35
+event 24
+wait 12 38
+wait 9 75
+event 2
+wait 17 66
+wait 10 21
+end 4
+end 68
+event 7
+event 31
+event 16
+wait 18 42
+end 33
+event 25
+event 22
+wait 28 79
+wait 2 14
+end 68
+event 6
+wait 3 17
+end 29
+event 13
+wait 12 26
+wait 5 46
+end 7
+wait 3 39
+end 56
+wait 4 54
+event 3
+wait 4 60
+wait 30 50
+wait 28 72
+wait 29 17
+wait 9 39
+end 54
+wait 19 35
+wait 17 43
+end 56
+event 9
+event 29
+wait 9 75
+wait 17 57
+wait 12 73
+wait 15 39
+wait 19 17
+end 13
+event 18
+event 27
+wait 6 42
+event 8
+end 79
+wait 33 24
+wait 19 4
+wait 3 70
+end 61
+event 14
+event 20
+wait 23 45
+wait 23 15
+end 55
+end 18
+event 11
+wait 24 13
+wait 26 44
+wait 18 20
+wait 7 7
+event 19
+event 34
+wait 4 35
+event 28
+wait 5 33
+end 57
+wait 24 4
+wait 23 69
+wait 17 17
+wait 2 72
+wait 33 79
+wait 23 68
+event 15
+wait 28 5
+end 7
+wait 8 39
+end 73
+end 10
+end 23
+event 23
+wait 30 69
+wait 33 28
+event 7
+wait 4 15
+wait 11 7
+end 35
+wait 17 45
+end 75
+end 61
+end 73
+wait 30 68
+event 5
+end 23
+wait 9 33
+end 24
+event 3
+event 33
+wait 20 79
+wait 24 46
+event 20
+wait 19 24
+wait 5 30
+wait 9 47
+wait 10 70
+wait 7 79
+wait 14 78
+event 10
+wait 28 40
+wait 18 21
+end 4
+wait 30 70
+end 78
+end 72
+end 74
+end 69
+wait 9 28
+wait 30 77
+end 70
+end 40
+event 32
+wait 30 65
+end 34
+end 50
+event 17
+wait 2 2
+wait 32 57
+end 46
+wait 14 12
+wait 29 66
+event 19
+wait 13 45
+wait 15 43
+end 42
+wait 27 17
+event 2
+wait 15 2
+event 9
+wait 20 71
+wait 2 61
+end 43
+event 15
+wait 24 24
+event 11
+wait 24 28
+wait 33 33
+event 29
+end 73
+wait 15 43
+wait 1 72
+wait 21 47
+wait 4 14
+event 5
+event 21
+wait 19 75
+wait 3 66
+event 7
+wait 25 47
+wait 26 2
+wait 26 30
+end 66
+wait 18 79
+wait 22 7
+event 18
+event 2
+end 57
+wait 0 61
+end 27
+event 24
+wait 25 79
+wait 22 21
+end 44
+event 15
+wait 8 20
+wait 10 4
+end 14
+wait 12 43
+wait 14 24
+wait 1 46
+wait 23 13
+wait 3 28
+event 10
+event 28
+wait 16 4
+event 33
+event 14
+wait 28 33
+wait 33 12
+event 20
+event 3
+wait 1 5
+wait 5 28
+event 8
+wait 16 66
+event 28
+wait 19 78
+event 27
+wait 0 39
+end 17
+wait 0 20
+wait 4 71
+wait 13 33
+wait 28 40
+wait 10 24
+end 39
+event 23
+wait 30 13
+end 69
+event 30
+wait 18 69
+wait 16 65
+end 13
+end 26
+wait 14 50
+wait 26 70
+wait 2 77
+wait 21 68
+event 6
+wait 32 42
+event 1
+wait 7 5
+wait 10 32
+end 65
+wait 19 72
+wait 19 46
+wait 24 10
+end 2
+end 74
+end 65
+end 30
+event 28
+wait 16 40
+event 10
+wait 2 24
+wait 15 32
+end 56
+event 33
+wait 20 12
+event 0
+event 14
+wait 33 39
+wait 21 61
+wait 1 20
+event 25
+wait 3 79
+wait 15 50
+wait 1 47
+end 39
+event 7
+wait 1 5
+event 20
+wait 18 12
+end 21
+end 4
+end 12
+event 19
+end 74
+event 22
+event 26
+wait 11 72
+wait 23 78
+wait 20 75
+event 15
+end 79
+wait 25 44
+wait 19 32
+end 12
+wait 20 46
+wait 33 2
+wait 1 7
+wait 2 48
+end 72
+wait 33 50
+event 4
+wait 13 74
+wait 28 27
+end 27
+end 77
+wait 28 34
+event 32
+wait 20 54
+end 14
+end 61
+wait 13 71
+wait 4 35
+wait 20 70
+end 2
+wait 19 30
+wait 21 21
+wait 3 56
+wait 33 60
+wait 20 15
+wait 7 57
+wait 9 42
+end 61
+end 20
+end 40
+event 1
+wait 15 5
+wait 32 20
+wait 9 47
+event 32
+wait 18 20
+event 23
+event 12
+wait 23 43
+end 71
+wait 19 38
+wait 5 78
+wait 9 73
+end 44
+event 2
+wait 27 77
+wait 17 48
+wait 30 7
+end 21
+wait 33 24
+end 54
+end 69
+event 15
+event 17
+wait 3 23
+end 7
+wait 17 26
+wait 12 48
+wait 32 5
+end 45
+end 21
+event 19
+wait 5 30
+event 4
+event 17
+wait 16 38
+wait 18 35
+event 28
+wait 29 26
+wait 26 34
+wait 22 32
+wait 25 27
+end 70
+event 25
+wait 10 44
+end 10
+end 70
+end 5
+wait 4 27
+end 56
+event 12
+wait 15 48
+end 27
+event 33
+wait 2 50
+wait 6 60
+wait 26 24
+wait 12 39
+end 68
+wait 26 2
+event 2
+event 18
+end 50
+wait 26 35
+wait 24 69
+event 20
+end 44
+end 68
+wait 27 75
+wait 34 46
+wait 6 54
+event 16
+event 10
+wait 13 15
+wait 7 40
+end 46
+end 21
+wait 7 12
+event 34
+wait 25 65
+event 29
+event 26
+wait 23 38
+wait 23 44
+wait 24 20
+wait 11 34
+wait 6 70
+wait 19 35
+wait 22 26
+wait 2 2
+wait 24 46
+wait 29 4
+wait 17 66
+event 23
+wait 18 24
+end 10
+wait 25 43
+end 26
+wait 16 44
+wait 6 38
+end 10
+end 66
+end 75
+end 33
+end 47
+event 25
+wait 33 43
+end 12
+event 30
+wait 4 7
+wait 30 65
+end 24
+event 32
+end 48
+wait 5 5
+event 5
+event 17
+wait 28 28
+event 2
+wait 16 66
+wait 13 78
+event 12
+event 16
+wait 10 39
+wait 5 44
+wait 20 30
+wait 2 2
+wait 13 5
+wait 30 66
+end 72
+event 28
+event 13
+wait 6 28
+event 15
+event 33
+wait 6 71
+end 70
+end 28
+wait 33 5
+wait 1 43
+wait 3 15
+event 21
+wait 32 61
+wait 21 33
+end 79
+wait 8 21
+event 4
+wait 20 27
+wait 32 78
+wait 30 74
+wait 34 48
+wait 7 7
+event 29
+wait 21 68
+wait 16 45
+end 10
+event 33
+wait 30 5
+wait 24 4
+end 73
+event 1
+wait 12 43
+end 79
+end 60
+end 21
+end 10
+event 3
+wait 32 56
+wait 9 15
+event 22
+end 61
+event 20
+end 66
+wait 29 27
+end 72
+wait 11 23
+wait 1 26
+wait 26 79
+end 79
+wait 23 30
+event 29
+event 30
+wait 30 65
+end 30
+end 20
+event 11
+wait 10 74
+wait 26 72
+wait 8 5
+wait 7 32
+wait 24 23
+wait 34 27
+end 45
+wait 14 34
+wait 25 66
+event 21
+wait 3 33
+wait 1 68
+end 12
+event 6
+wait 31 54
+wait 0 60
+wait 13 28
+event 9
+event 16
+wait 17 45
+wait 16 47
+wait 13 38
+wait 0 71
+wait 30 73
+end 46
+wait 15 15
+wait 10 42
+event 15
+wait 8 70
+end 21
+wait 10 15
+event 1
+event 14
+wait 33 34
+wait 4 26
+event 13
+event 24
+wait 20 68
+wait 23 4
+end 4
+end 34
+wait 8 69
+event 18
+wait 8 10
+wait 24 23
+event 31
+event 8
+end 12
+wait 12 28
+wait 4 38
+wait 9 21
+wait 33 46
+end 71
+wait 1 70
+wait 32 20
+wait 3 54
+end 33
+event 16
+wait 15 10
+wait 0 47
+wait 16 69
+wait 30 5
+end 28
+wait 24 24
+end 69
+event 1
+wait 4 70
+event 30
+wait 14 65
+wait 6 73
+end 2
+end 66
+end 2
+wait 32 5
+end 77
+event 14
+wait 2 65
+event 7
+wait 15 7
+end 32
+wait 24 12
+wait 27 40
+wait 12 57
+end 47
+event 25
+end 21
+wait 7 66
+end 54
+end 5
+event 17
+event 27
+event 9
+event 2
+wait 12 65
+end 54
+wait 16 2
+wait 7 75
+end 5
+end 34
+wait 11 45
+wait 2 40
+event 3
+end 65
+wait 0 33
+wait 9 21
+wait 13 77
+end 26
+end 15
+end 24
+end 12
+wait 29 54
+end 78
+end 40
+end 42
+event 6
+event 0
+wait 19 47
+wait 21 33
+event 4
+wait 26 60
+wait 7 73
+wait 11 38
+end 27
+wait 26 70
+wait 9 71
+wait 13 26
+event 20
+end 71
+wait 27 68
+end 7
+end 73
+end 61
+event 15
+event 7
+wait 17 75
+wait 30 7
+end 5
+wait 15 10
+wait 25 66
+wait 21 73
+event 29
+wait 29 54
+event 11
+end 77
+wait 32 38
+wait 14 45
+event 23
+event 13
+wait 22 30
+wait 32 26
+wait 6 4
+wait 8 77
+event 6
+wait 4 4
+end 79
+event 21
+event 15
+wait 6 10
+end 5
+wait 7 33
+wait 11 73
+event 27
+wait 15 68
+end 66
+event 26
+event 25
+end 10
+end 21
+end 35
+wait 19 66
+event 32
+wait 31 70
+wait 32 72
+wait 22 79
+end 54
+end 12
+wait 25 78
+wait 25 5
+wait 11 60
+wait 6 56
+event 5
+wait 27 26
+event 11
+wait 34 73
+end 57
+wait 23 60
+wait 18 61
+end 27
+wait 9 44
+end 66
+event 23
+wait 34 20
+wait 21 60
+event 30
+end 15
+wait 0 38
+wait 0 7
+event 8
+end 73
+event 2
+wait 15 77
+event 14
+end 57
+wait 1 45
+end 34
+end 73
+event 25
+wait 34 5
+event 10
+wait 19 15
+wait 0 74
+wait 12 40
+wait 28 39
+wait 2 42
+wait 23 78
+event 27
+wait 32 26
+event 2
+event 1
+event 33
+wait 19 45
+wait 6 34
+wait 28 42
+wait 2 46
+event 32
+end 57
+wait 7 72
+event 2
+event 22
+wait 3 30
+event 4
+end 73
+wait 7 79
+wait 18 26
+end 65
+wait 14 46
+wait 1 4
+end 24
+event 34
+end 40
+end 7
+wait 6 5
+end 30
+wait 29 27
+wait 3 20
+wait 14 48
+end 38
+wait 4 73
+end 77
+event 21
+wait 33 60
+event 12
+wait 27 65
+wait 31 28
+wait 30 57
+wait 11 43
+wait 31 40
+event 3
+wait 19 20
+wait 11 30
+event 18
+wait 5 61
+wait 13 26
+end 45
+event 19
+event 30
+wait 28 47
+event 31
+wait 24 40
+end 61
+wait 5 15
+wait 5 45
+end 34
+wait 16 28
+wait 5 70
+wait 8 66
+wait 19 57
+wait 22 20
+wait 14 35
+end 45
+end 60
+event 19
+event 13
+wait 33 26
+end 12
+wait 14 57
+event 6
+event 22
+end 26
+wait 17 10
+wait 27 34
+event 16
+end 30
+wait 34 2
+event 24
+wait 28 12
+wait 11 56
+wait 0 40
+end 24
+wait 15 69
+wait 10 28
+wait 12 5
+wait 21 23
+wait 27 20
+end 65
+end 34
+event 23
+end 78
+event 5
+event 7
+wait 23 79
+wait 27 45
+wait 0 70
+wait 34 72
+wait 3 33
+wait 19 15
+wait 29 61
+event 0
+wait 8 74
+wait 26 38
+event 23
+wait 29 70
+wait 12 7
+event 33
+wait 33 26
+event 12
+event 10
+wait 19 5
+event 26
+event 27
+wait 6 65
+wait 14 34
+wait 20 7
+wait 11 60
+end 39
+event 19
+wait 11 15
+wait 10 20
+end 65
+event 14
+wait 24 40
+wait 25 28
+end 28
+event 11
+end 69
+event 21
+wait 4 60
+wait 1 79
+wait 8 56
+wait 7 57
+wait 14 30
+wait 26 43
+wait 28 35
+event 10
+wait 23 20
+wait 33 45
+wait 30 23
+end 15
+end 54
+wait 1 38
+wait 5 5
+event 4
+wait 30 46
+wait 24 48
+wait 24 34
+end 39
+end 27
+wait 30 60
+wait 32 73
+event 3
+wait 4 33
+end 48
+end 35
+event 26
+wait 10 43
+end 71
+end 2
+end 57
+end 65
+end 30
+event 33
+wait 1 45
+wait 34 26
+event 14
+event 6
+wait 15 30
+wait 5 65
+event 8
+wait 31 74
+wait 25 66
+end 12
+event 30
+wait 29 23
+wait 19 60
+wait 11 46
+wait 18 56
+event 20
+wait 12 7
+event 18
+wait 26 56
+end 75
+end 48
+event 26
+wait 6 56
+end 42
+event 19
+wait 32 60
+end 42
+event 9
+event 34
+wait 5 2
+wait 0 72
+wait 32 26
+event 6
+event 0
+event 1
+wait 17 4
+wait 26 72
+event 15
+wait 1 71
+end 54
+end 35
+wait 18 21
+event 32
+event 29
+wait 16 26
+event 12
+end 10
+wait 2 68
+wait 21 30
+wait 6 45
+event 4
+wait 0 27
+wait 1 38
+wait 20 60
+wait 32 7
+wait 30 79
+wait 10 73
+event 26
+wait 30 61
+end 20
+wait 18 44
+wait 18 56
+wait 27 72
+wait 1 33
+wait 29 70
+event 20
+wait 4 54
+wait 0 23
+event 6
+end 39
+wait 12 45
+end 42
+wait 0 60
+wait 21 69
+wait 5 77
+event 25
+event 23
+event 31
+wait 23 20
+end 35
+end 39
+end 68
+end 23
+wait 23 28
+wait 29 66
+wait 13 74
+event 27
+wait 20 72
+event 24
+wait 2 40
+end 70
+wait 3 48
+wait 18 34
+end 27
+end 54
+end 77
+end 71
+end 38
+event 5
+wait 8 2
+event 30
+wait 32 5
+wait 27 65
+end 60
+event 32
+end 69
+end 38
+wait 15 61
+wait 18 5
+wait 27 7
+event 3
+event 7
+end 30
+wait 18 77
+event 15
+end 75
+wait 7 61
+end 42
+end 26
+event 10
+wait 13 79
+event 28
+event 29
+wait 29 35
+end 5
+wait 17 47
+end 40
+wait 15 12
+end 26
+end 77
+wait 33 43
+wait 4 73
+wait 1 57
+wait 1 42
+wait 3 39
+end 12
+wait 26 66
+wait 1 48
+wait 7 70
+event 26
+end 26
+wait 17 66
+end 35
+event 15
+wait 25 12
+end 12
+event 27
+wait 19 65
+wait 7 7
+end 40
+event 1
+event 16
+wait 32 38
+wait 5 48
+wait 16 26
+event 7
+wait 20 70
+end 74
+wait 27 42
+wait 1 33
+wait 19 57
+wait 14 71
+end 46
+event 18
+wait 7 61
+wait 0 44
+wait 17 21
+end 71
+wait 11 5
+wait 31 56
+wait 3 77
+wait 18 7
+wait 8 34
+event 1
+wait 6 33
+event 4
+wait 33 73
+event 29
+wait 1 54
+event 12
+event 20
+event 18
+wait 28 45
+event 14
+wait 24 72
+wait 2 70
+wait 10 35
+wait 22 71
+wait 7 7
+end 28
+event 5
+event 25
+wait 18 12
+event 17
+wait 17 48
+wait 8 21
+event 19
+end 5
+wait 10 75
+wait 8 57
+end 23
+event 17
+event 18
+wait 18 48
+wait 20 47
+end 57
+wait 4 66
+wait 8 65
+wait 0 12
+end 48
+wait 21 10
+event 6
+event 3
+wait 19 33
+wait 18 77
+wait 33 39
+wait 29 4
+event 16
+end 4
+wait 7 26
+end 40
+end 26
+event 21
+wait 32 69
+end 48
+wait 22 10
+wait 9 30
+end 40
+end 73
+event 13
+end 40
+wait 25 79
+wait 1 74
+event 28
+wait 21 45
+event 11
+wait 11 5
+event 7
+wait 22 46
+end 57
+wait 6 7
+event 1
+wait 20 54
+wait 33 26
+wait 33 74
+wait 31 61
+event 4
+event 23
+event 27
+end 54
+wait 23 20
+wait 17 66
+event 25
+wait 8 42
+wait 21 79
+end 38
+wait 1 28
+event 29
+wait 3 4
+event 24
+wait 0 72
+event 20
+wait 9 54
+wait 22 47
+event 17
+wait 21 66
+end 45
+event 6
+event 23
+wait 17 20
+event 8
+event 22
+wait 31 7
+end 66
+wait 10 10
+wait 13 21
+wait 1 47
+wait 6 71
+end 65
+event 33
+event 13
+end 4
+wait 21 26
+end 33
+wait 7 43
+end 61
+end 44
+end 35
+wait 23 74
+event 7
+wait 24 43
+event 32
+end 20
+end 10
+event 9
+wait 18 30
+event 10
+wait 21 46
+end 45
+wait 12 69
+wait 27 38
+wait 24 35
+end 56
+wait 28 42
+event 24
+event 12
+wait 4 2
+wait 15 10
+wait 28 43
+wait 25 69
+event 3
+wait 22 39
+wait 2 73
+wait 1 21
+event 31
+wait 10 75
+wait 20 57
+wait 16 7
+end 70
+wait 34 4
+wait 26 56
+end 21
+end 79
+wait 16 61
+end 23
+wait 16 34
+wait 22 35
+wait 33 54
+end 54
+event 23
+wait 11 74
+event 20
+wait 32 57
+event 32
+wait 25 57
+end 44
+event 0
+wait 24 27
+end 39
+end 66
+wait 10 23
+wait 11 44
+wait 30 72
+wait 29 12
+wait 33 60
+end 35
+end 40
+event 28
+wait 22 42
+end 66
+wait 26 43
+event 30
+wait 7 72
+end 28
+end 12
+event 18
+end 33
+event 16
+event 25
+wait 18 57
+wait 17 7
+event 6
+wait 22 69
+end 20
+wait 24 30
+end 44
+end 12
+wait 28 48
+wait 31 61
+wait 5 77
+wait 1 34
+event 19
+wait 7 71
+wait 2 33
+end 71
+event 1
+wait 11 21
+wait 5 28
+end 43
+wait 11 47
+wait 7 34
+event 5
+event 17
+event 26
+wait 12 7
+wait 6 43
+wait 29 77
+event 24
+wait 5 28
+wait 26 20
+wait 25 56
+event 26
+wait 14 30
+wait 15 20
+wait 20 27
+event 11
+wait 34 21
+wait 9 74
+wait 5 5
+wait 32 44
+end 30
+wait 3 47
+event 34
+event 25
+wait 3 4
+wait 8 21
+wait 27 56
+event 9
+end 20
+end 30
+wait 0 74
+end 7
+end 72
+event 18
+wait 7 57
+end 28
+event 7
+event 28
+wait 28 48
+end 47
+wait 15 72
+wait 15 71
+event 0
+wait 22 57
+event 15
+wait 8 74
+wait 26 71
+wait 9 20
+wait 32 34
+wait 29 72
+event 8
+end 77
+wait 23 21
+event 27
+wait 21 10
+end 74
+event 28
+event 21
+end 56
+wait 3 48
+wait 24 38
+event 12
+end 77
+wait 6 45
+wait 4 66
+end 26
+wait 7 79
+wait 12 46
+event 4
+end 57
+wait 3 10
+wait 34 7
+event 34
+wait 26 7
+wait 18 2
+event 6
+wait 5 43
+wait 20 45
+wait 13 66
+event 33
+wait 14 60
+wait 22 54
+event 2
+event 23
+wait 25 68
+wait 19 73
+wait 6 70
+end 46
+end 54
+wait 25 40
+wait 20 33
+wait 34 21
+event 5
+wait 26 43
+wait 25 28
+event 12
+wait 27 46
+end 57
+wait 11 5
+end 2
+event 25
+event 31
+wait 21 28
+event 26
+end 61
+wait 34 43
+wait 32 7
+wait 9 40
+wait 21 68
+wait 13 71
+event 3
+wait 4 48
+wait 32 4
+event 18
+event 4
+end 42
+wait 25 47
+end 4
+end 60
+event 7
+wait 24 79
+wait 1 10
+wait 18 48
+end 5
+end 47
+wait 12 2
+end 60
+event 6
+end 4
+event 1
+event 34
+wait 23 21
+wait 28 70
+end 48
+wait 30 10
+wait 32 43
+end 45
+event 21
+wait 29 68
+wait 16 28
+event 28
+wait 10 70
+event 30
+wait 33 10
+end 12
+end 45
+end 69
+event 9
+wait 0 20
+wait 15 40
+end 7
+event 25
+wait 25 47
+event 19
+wait 13 73
+end 10
+event 22
+wait 9 54
+event 24
+end 4
+wait 31 39
+wait 22 79
+wait 12 42
+wait 0 38
+end 35
+event 25
+event 27
+wait 5 57
+end 77
+wait 2 69
+end 4
+end 33
+wait 8 46
+wait 27 47
+event 8
+end 42
+wait 10 46
+event 10
+end 66
+wait 29 70
+end 75
+wait 19 46
+wait 28 23
+end 71
+end 21
+end 72
+event 5
+end 30
+event 11
+end 57
+wait 15 5
+end 27
+event 9
+event 14
+wait 15 60
+wait 34 54
+wait 25 30
+event 28
+event 15
+event 20
+wait 32 23
+end 60
+wait 28 40
+wait 3 5
+event 29
+event 34
+event 33
+wait 7 54
+wait 11 10
+wait 3 33
+wait 0 77
+wait 4 68
+wait 13 70
+wait 1 45
+wait 23 72
+event 22
+event 25
+wait 3 12
+wait 6 27
+wait 33 79
+wait 12 30
+event 28
+wait 8 40
+end 7
+end 54
+event 7
+wait 29 54
+event 27
+event 12
+wait 18 30
+wait 25 42
+wait 11 47
+event 0
+wait 8 38
+wait 4 77
+wait 0 20
+end 44
+wait 0 2
+event 2
+event 31
+end 68
+wait 22 39
+wait 11 69
+event 16
+wait 1 28
+event 8
+wait 26 40
+wait 6 38
+event 1
+event 3
+event 23
+wait 31 5
+wait 21 12
+wait 28 72
+wait 31 28
+wait 18 45
+wait 31 21
+wait 6 33
+end 21
+end 70
+end 10
+event 18
+wait 22 48
+wait 16 45
+wait 22 30
+event 31
+event 6
+wait 3 5
+wait 21 38
+wait 30 28
+event 22
+wait 21 27
+end 27
+event 25
+wait 16 21
+end 48
+end 33
+wait 10 30
+wait 13 42
+end 20
+wait 1 39
+event 13
+wait 34 70
+wait 2 71
+wait 5 42
+wait 25 66
+event 5
+wait 14 42
+wait 15 73
+end 34
+end 5
+event 33
+wait 22 79
+event 1
+event 16
+wait 22 45
+end 23
+wait 25 39
+wait 25 21
+event 26
+wait 32 40
+event 11
+end 44
+wait 9 69
+wait 33 10
+wait 24 47
+event 3
+wait 28 5
+end 39
+end 10
+event 15
+wait 1 73
+end 21
+event 14
+wait 6 42
+event 33
+event 30
+wait 14 28
+wait 24 10
+end 34
+end 10
+end 71
+end 30
+event 24
+wait 15 10
+wait 10 47
+event 34
+end 46
+wait 26 70
+end 12
+end 7
+end 66
+end 4
+end 28
+end 43
+event 25
+end 30
+wait 23 21
+wait 33 66
+end 39
+event 10
+wait 14 30
+wait 24 47
+end 10
+end 5
+event 24
+wait 30 47
+event 22
+wait 15 45
+wait 14 79
+event 2
+end 10
+wait 26 71
+end 5
+event 26
+end 2
+wait 6 71
+wait 10 70
+end 23
+end 72
+event 14
+wait 20 28
+wait 7 30
+wait 27 79
+event 28
+event 20
+event 4
+event 32
+wait 0 72
+wait 25 23
+wait 15 28
+wait 20 44
+wait 28 43
+event 21
+end 70
+wait 20 5
+event 27
+wait 13 27
+wait 17 40
+wait 32 4
+wait 18 79
+wait 11 77
+wait 32 7
+wait 30 38
+wait 5 12
+wait 15 34
+wait 5 68
+event 20
+event 13
+wait 20 44
+end 69
+wait 3 5
+wait 9 27
+event 32
+wait 17 7
+wait 4 4
+event 15
+end 7
+event 1
+event 5
+wait 30 10
+wait 32 12
+wait 10 34
+end 30
+event 25
+wait 26 73
+end 45
+wait 23 23
+wait 3 68
+wait 16 28
+end 79
+event 10
+wait 27 70
+end 5
+wait 27 34
+end 70
+event 29
+wait 33 54
+event 16
+wait 28 28
+event 11
+event 32
+wait 4 77
+wait 31 12
+event 18
+end 68
+wait 7 79
+event 0
+event 30
+wait 23 20
+wait 9 47
+wait 34 10
+wait 25 72
+wait 9 38
+wait 24 2
+event 6
+wait 23 71
+wait 8 42
+event 25
+wait 34 72
+end 20
+event 26
+wait 16 73
+end 28
+event 28
+end 43
+wait 27 28
+end 66
+end 70
+event 24
+wait 29 2
+event 20
+wait 4 44
+event 3
+wait 13 5
+wait 3 68
+event 8
+wait 32 42
+event 27
+wait 31 28
+wait 27 34
+wait 30 70
+end 46
+event 27
+end 71
+wait 5 34
+end 12
+event 16
+wait 3 73
+event 13
+event 9
+wait 32 27
+end 12
+wait 16 38
+event 34
+wait 21 69
+event 5
+end 2
+wait 16 10
+end 40
+wait 12 34
+event 17
+wait 28 72
+event 16
+wait 32 47
+wait 26 5
+event 30
+event 12
+wait 24 34
+wait 3 7
+wait 27 10
+wait 29 70
+wait 25 38
+end 34
+wait 13 40
+event 13
+wait 30 40
+event 30
+wait 2 40
+end 54
+end 12
+event 24
+wait 2 34
+event 32
+event 28
+wait 21 72
+wait 11 47
+wait 10 27
+wait 28 42
+end 69
+event 28
+wait 34 42
+end 30
+end 44
+event 27
+wait 14 10
+event 34
+wait 13 42
+event 13
+wait 21 42
+event 10
+wait 32 27
+event 19
+wait 28 46
+end 38
+event 28
+wait 3 46
+end 44
+event 33
+wait 5 54
+wait 21 66
+end 28
+event 26
+wait 10 5
+event 11
+wait 10 47
+event 5
+wait 14 54
+end 42
+end 47
+end 70
+event 4
+wait 17 77
+end 40
+end 38
+wait 4 4
+wait 34 44
+event 17
+wait 17 77
+event 31
+wait 14 12
+wait 34 28
+end 4
+end 34
+event 29
+wait 23 2
+wait 14 70
+event 4
+wait 34 4
+event 34
+wait 10 28
+wait 10 44
+wait 17 4
+end 68
+end 5
+end 70
+event 21
+wait 2 42
+wait 33 66
+wait 17 72
+wait 19 69
+end 5
+end 72
+event 32
+wait 30 27
+end 40
+event 14
+wait 25 54
+wait 13 12
+wait 27 70
+wait 30 10
+end 12
+end 5
+end 47
+event 30
+wait 29 27
+wait 20 10
+end 34
+event 2
+wait 15 34
+wait 32 40
+wait 22 42
+end 5
+event 22
+wait 34 42
+event 3
+wait 7 68
+wait 22 46
+wait 13 7
+end 4
+wait 6 73
+event 25
+wait 27 38
+wait 8 54
+event 19
+wait 21 69
+event 8
+wait 0 54
+event 22
+wait 29 46
+end 40
+event 7
+wait 2 30
+wait 27 79
+end 10
+wait 27 68
+end 68
+end 27
+end 40
+end 20
+event 23
+wait 11 71
+event 11
+event 2
+wait 11 20
+wait 21 23
+wait 0 71
+wait 26 21
+wait 0 30
+wait 34 2
+event 20
+wait 20 10
+event 10
+event 26
+wait 26 44
+wait 33 47
+end 10
+event 20
+event 34
+wait 27 2
+wait 32 10
+event 11
+wait 30 42
+wait 1 21
+wait 5 5
+wait 6 28
+wait 5 20
+end 30
+event 15
+wait 11 34
+event 17
+end 7
+wait 4 77
+wait 21 72
+wait 6 4
+end 77
+end 2
+end 69
+event 0
+wait 2 71
+wait 34 30
+wait 7 54
+end 79
+event 34
+event 6
+wait 21 73
+wait 16 30
+end 10
+end 21
+end 44
+wait 18 4
+wait 0 28
+end 20
+event 33
+wait 26 66
+event 30
+event 7
+wait 27 47
+event 5
+wait 22 5
+wait 24 20
+wait 33 42
+wait 29 54
+end 30
+event 13
+wait 28 12
+wait 1 7
+end 44
+event 22
+wait 27 5
+end 21
+event 29
+wait 27 46
+wait 12 54
+end 73
+wait 9 27
+event 32
+wait 24 10
+end 44
+wait 5 40
+event 26
+wait 24 66
+event 33
+event 1
+wait 19 42
+wait 11 7
+wait 31 44
+event 9
+wait 13 27
+wait 4 21
+end 54
+event 0
+event 21
+wait 22 72
+wait 0 73
+wait 8 28
+wait 16 23
+wait 22 69
+end 42
+end 68
+event 2
+wait 21 71
+event 16
+wait 11 23
+event 0
+wait 10 73
+wait 4 30
+event 24
+wait 15 10
+event 21
+wait 17 20
+wait 28 71
+event 28
+end 47
+end 27
+wait 7 12
+end 10
+event 10
+wait 30 66
+wait 0 71
+wait 20 73
+end 47
+end 46
+event 30
+end 27
+wait 28 66
+event 20
+wait 33 73
+end 20
+end 72
+event 12
+wait 25 54
+end 69
+end 38
+event 33
+wait 14 73
+end 21
+event 5
+wait 2 40
+event 25
+event 22
+event 19
+wait 7 54
+wait 8 69
+wait 19 42
+wait 20 72
+end 70
+event 2
+wait 33 40
+event 33
+wait 16 40
+end 79
+event 11
+wait 22 23
+wait 28 34
+wait 18 7
+event 28
+end 42
+wait 29 34
+wait 3 66
+end 69
+end 54
+end 79
+event 27
+wait 13 68
+wait 22 46
+event 17
+wait 25 2
+end 42
+wait 34 47
+end 42
+wait 29 5
+event 20
+wait 13 72
+end 71
+event 34
+event 18
+wait 7 38
+wait 24 7
+wait 13 47
+wait 13 4
+wait 19 70
+wait 21 20
+end 27
+end 42
+wait 23 79
+event 3
+wait 24 66
+event 16
+end 66
+wait 16 40
+event 24
+end 2
+wait 15 66
+wait 8 7
+event 25
+end 34
+wait 34 2
+event 16
+wait 33 40
+end 73
+event 33
+wait 13 40
+event 19
+wait 7 42
+wait 15 70
+event 4
+end 27
+wait 5 21
+wait 17 77
+wait 11 30
+event 34
+wait 16 2
+end 12
+event 23
+wait 1 79
+event 17
+wait 15 77
+event 31
+wait 5 44
+event 14
+wait 14 73
+end 2
+end 71
+end 54
+end 66
+event 1
+wait 12 79
+event 13
+wait 13 27
+wait 34 40
+wait 9 4
+event 15
+event 8
+wait 30 69
+wait 32 7
+wait 28 47
+wait 12 68
+end 42
+event 13
+event 5
+wait 5 72
+end 54
+wait 4 10
+wait 8 21
+wait 13 70
+end 44
+wait 31 28
+wait 10 77
+wait 27 66
+wait 14 27
+end 2
+event 10
+event 16
+event 13
+wait 12 70
+event 31
+wait 18 2
+wait 22 28
+wait 10 77
+end 42
+event 11
+end 28
+wait 33 30
+end 69
+event 27
+wait 13 66
+event 33
+event 28
+wait 28 47
+event 5
+end 10
+wait 8 30
+end 2
+wait 0 72
+event 21
+wait 6 20
+event 14
+wait 14 73
+wait 11 27
+end 46
+end 40
+event 18
+wait 23 2
+event 7
+end 42
+wait 33 12
+event 11
+end 54
+end 21
+wait 2 27
+wait 28 38
+end 79
+event 23
+end 79
+wait 30 2
+end 21
+event 2
+wait 34 27
+end 10
+event 4
+wait 17 10
+event 12
+wait 13 79
+event 13
+wait 24 66
+wait 3 68
+event 9
+event 33
+wait 1 12
+wait 4 4
+end 40
+wait 28 79
+wait 21 70
+end 4
+end 79
+event 0
+wait 2 71
+end 77
+wait 28 72
+event 24
+end 72
+wait 19 66
+end 2
+end 77
+end 34
+end 70
+event 17
+wait 1 10
+end 68
+end 34
+event 29
+end 20
+wait 12 34
+wait 32 5
+event 2
+wait 6 71
+event 1
+wait 5 10
+end 69
+end 4
+wait 20 12
+end 34
+event 5
+wait 29 10
+end 72
+end 40
+end 72
+end 73
+event 12
+wait 12 34
+event 21
+wait 22 70
+end 47
+end 12
+event 6
+end 40
+wait 28 20
+wait 8 71
+event 30
+end 70
+event 32
+wait 6 7
+event 34
+wait 7 40
+event 14
+wait 6 2
+wait 30 69
+wait 19 27
+wait 1 73
+wait 23 5
+end 30
+event 1
+wait 8 73
+event 4
+wait 19 4
+end 4
+end 38
+event 20
+wait 17 12
+end 7
+end 72
+event 29
+wait 15 10
+event 30
+wait 5 69
+end 4
+event 8
+wait 20 71
+wait 17 30
+wait 2 21
+wait 15 73
+end 71
+event 3
+event 10
+wait 34 77
+event 22
+wait 3 28
+wait 16 46
+wait 26 68
+wait 30 23
+event 15
+wait 20 73
+wait 17 10
+wait 30 70
+event 20
+event 17
+end 71
+wait 12 30
+event 28
+wait 29 38
+wait 22 47
+end 27
+wait 0 20
+wait 3 73
+event 6
+event 23
+wait 16 7
+wait 20 79
+wait 17 10
+wait 7 2
+wait 19 72
+end 66
+wait 12 5
+wait 7 12
+end 27
+event 5
+wait 3 69
+end 34
+event 34
+wait 4 77
+event 30
+wait 11 23
+wait 30 70
+end 69
+event 26
+wait 19 68
+event 20
+wait 30 79
+end 70
+end 72
+event 17
+wait 3 10
+end 34
+event 19
+wait 33 66
+event 29
+wait 23 38
+wait 1 72
+wait 31 68
+event 31
+wait 1 68
+wait 34 4
+event 16
+end 12
+wait 29 7
+wait 7 46
+wait 4 27
+event 11
+event 1
+wait 20 72
+wait 6 23
+end 20
+wait 9 68
+end 77
+end 5
+event 9
+wait 31 68
+event 0
+wait 14 20
+event 3
+event 4
+wait 1 69
+wait 9 27
+wait 5 77
+event 9
+wait 30 73
+wait 15 27
+end 70
+end 47
+wait 32 10
+wait 3 28
+event 3
+end 46
+event 5
+event 1
+wait 14 77
+wait 2 69
+wait 16 28
+event 23
+wait 32 38
+end 10
+event 6
+wait 21 23
+event 30
+wait 7 79
+wait 31 73
+wait 6 70
+event 32
+wait 26 10
+wait 16 38
+end 10
+event 6
+wait 24 70
+end 12
+event 26
+wait 12 10
+event 31
+wait 11 73
+event 22
+wait 2 68
+wait 14 47
+event 21
+wait 4 23
+end 12
+end 66
+event 24
+end 66
+wait 20 70
+end 28
+end 7
+end 38
+event 15
+wait 0 27
+end 46
+event 0
+wait 24 27
+event 20
+end 69
+wait 33 72
+wait 26 70
+end 2
+end 68
+event 24
+wait 19 27
+event 26
+wait 12 70
+event 11
+wait 28 73
+event 29
+event 2
+end 72
+wait 19 69
+wait 8 68
+wait 8 7
+wait 5 21
+event 4
+wait 24 23
+end 38
+event 14
+wait 1 77
+wait 8 47
+wait 12 20
+end 12
+event 24
+end 77
+wait 9 23
+end 27
+event 34
+wait 17 4
+event 8
+wait 32 68
+wait 1 47
+wait 21 7
+end 30
+event 17
+wait 3 4
+event 32
+end 28
+wait 25 68
+end 69
+event 33
+wait 4 72
+wait 22 66
+event 5
+end 72
+wait 9 21
+end 46
+event 22
+wait 8 66
+event 7
+event 19
+wait 34 40
+end 66
+wait 0 79
+wait 21 69
+wait 2 46
+wait 19 12
+event 0
+event 28
+wait 1 73
+wait 29 2
+event 29
+wait 0 2
+event 19
+wait 1 27
+wait 5 79
+wait 2 12
+event 25
+wait 21 68
+end 47
+event 5
+wait 2 79
+event 9
+wait 21 23
+end 34
+wait 13 21
+end 69
+end 27
+end 77
+event 1
+wait 4 27
+wait 13 73
+wait 25 77
+event 3
+wait 6 4
+event 16
+wait 6 38
+wait 20 47
+wait 33 28
+end 30
+event 6
+wait 14 38
+end 66
+wait 31 4
+event 31
+wait 13 4
+event 8
+wait 13 66
+event 33
+wait 8 28
+end 40
+end 7
+event 21
+wait 14 69
+event 34
+wait 10 40
+wait 1 23
+end 7
+wait 13 68
+end 47
+event 14
+wait 21 38
+wait 26 69
+end 21
+end 5
+event 13
+wait 1 73
+wait 19 4
+end 28
+wait 12 68
+wait 10 21
+wait 19 66
+event 2
+end 40
+wait 31 46
+end 20
+wait 14 79
+wait 23 12
+event 26
+event 31
+wait 18 46
+wait 10 69
+event 8
+wait 29 28
+event 0
+wait 15 2
+event 23
+end 30
+event 29
+wait 12 28
+wait 23 12
+event 15
+end 20
+wait 3 2
+end 69
+end 68
+event 3
+end 38
+wait 12 2
+event 12
+end 4
+wait 11 2
+wait 7 5
+wait 29 30
+wait 18 68
+event 1
+event 19
+wait 25 10
+wait 0 73
+wait 29 34
+wait 30 4
+wait 22 70
+end 10
+wait 22 23
+wait 29 66
+wait 16 28
+wait 8 20
+event 23
+wait 28 12
+end 79
+end 4
+event 21
+wait 3 38
+end 70
+event 10
+wait 34 21
+wait 0 69
+end 20
+event 22
+wait 16 23
+wait 33 40
+wait 20 70
+end 30
+event 4
+wait 20 27
+event 29
+wait 6 34
+end 30
+end 38
+wait 30 72
+wait 8 66
+end 77
+end 38
+event 34
+wait 6 21
+event 8
+event 30
+wait 12 4
+wait 29 72
+wait 33 66
+wait 17 20
+event 33
+wait 25 40
+wait 6 66
+event 17
+wait 9 20
+event 11
+wait 15 2
+event 28
+wait 28 12
+event 7
+wait 15 5
+end 69
+end 4
+end 66
+event 9
+wait 29 20
+end 66
+end 34
+end 20
+end 12
+event 12
+wait 22 4
+end 23
+end 73
+end 66
+end 46
+event 29
+wait 26 20
+wait 3 72
+event 28
+end 47
+wait 17 12
+event 0
+wait 12 73
+wait 22 69
+event 17
+wait 34 12
+end 70
+end 12
+end 23
+end 20
+end 79
+end 34
+end 28
+event 22
+event 16
+end 34
+wait 1 69
+wait 19 23
+wait 20 28
+wait 15 4
+event 15
+end 21
+wait 5 2
+wait 32 4
+end 12
+wait 9 5
+end 28
+event 32
+end 38
+wait 28 4
+event 25
+event 14
+end 21
+wait 7 40
+end 34
+wait 1 79
+wait 14 10
+wait 21 77
+event 14
+wait 6 10
+end 40
+end 46
+event 18
+wait 9 46
+end 77
+wait 9 68
+end 79
+end 5
+end 38
+end 68
+end 20
+event 21
+event 7
+wait 8 40
+wait 0 77
+event 9
+end 27
+wait 1 46
+wait 3 5
+wait 8 68
+end 69
+end 28
+event 8
+wait 20 68
+wait 26 40
+event 0
+event 12
+wait 30 77
+wait 22 73
+event 3
+wait 21 72
+wait 2 5
+wait 11 38
+event 22
+event 20
+wait 33 47
+wait 16 70
+wait 7 73
+wait 32 27
+wait 23 68
+wait 19 28
+end 12
+end 10
+event 23
+event 34
+wait 20 12
+event 11
+event 2
+wait 28 68
+wait 29 38
+wait 33 5
+end 68
+event 26
+wait 3 40
+wait 5 20
+event 33
+wait 27 5
+wait 21 47
+event 1
+end 70
+wait 9 46
+wait 25 69
+wait 9 79
+event 20
+wait 20 12
+event 5
+event 9
+wait 25 46
+end 27
+wait 33 79
+wait 17 2
+wait 4 20
+event 3
+wait 33 40
+event 29
+end 20
+wait 8 38
+end 23
+event 4
+event 32
+wait 2 20
+end 20
+wait 25 27
+event 19
+event 6
+end 38
+wait 16 21
+wait 7 66
+end 72
+wait 7 23
+wait 6 28
+end 28
+end 79
+wait 26 34
+end 68
+event 6
+wait 13 10
+end 20
+wait 23 28
+event 33
+wait 2 40
+wait 29 79
+event 16
+wait 18 70
+wait 29 21
+event 28
+wait 26 4
+wait 9 68
+event 17
+end 2
+event 18
+wait 18 70
+end 72
+end 21
+end 70
+event 25
+wait 9 46
+wait 30 69
+wait 27 27
+end 20
+end 38
+end 73
+event 27
+wait 17 5
+event 13
+wait 29 10
+wait 3 27
+event 30
+wait 27 77
+wait 26 69
+end 46
+end 66
+event 9
+wait 15 46
+wait 11 68
+event 17
+wait 34 5
+event 20
+wait 31 12
+end 20
+event 2
+end 21
+wait 13 20
+end 47
+wait 34 40
+event 13
+wait 8 20
+event 18
+end 20
+end 10
+end 40
+wait 21 70
+end 28
+end 72
+end 10
+event 31
+wait 19 12
+event 21
+wait 33 70
+wait 14 47
+end 77
+event 14
+wait 13 72
+wait 18 47
+end 12
+event 8
+wait 27 20
+wait 16 38
+event 33
+wait 21 70
+end 10
+event 26
+wait 7 4
+wait 11 69
+end 28
+wait 26 34
+event 29
+wait 31 10
+wait 27 79
+wait 28 21
+end 40
+end 79
+end 46
+event 23
+wait 28 28
+end 72
+event 34
+wait 32 5
+wait 20 40
+end 27
+end 79
+end 72
+event 26
+wait 17 34
+end 40
+event 15
+wait 21 46
+event 27
+wait 26 79
+end 21
+wait 26 77
+wait 6 20
+end 70
+end 20
+event 16
+wait 7 38
+event 31
+event 20
+wait 7 10
+wait 15 40
+end 47
+event 11
+wait 0 69
+wait 4 68
+event 15
+wait 33 40
+event 13
+wait 3 72
+end 5
+event 28
+wait 18 21
+event 32
+wait 10 28
+event 7
+wait 6 73
+event 18
+wait 30 66
+wait 12 4
+wait 28 47
+wait 15 38
+end 38
+end 12
+wait 21 21
+wait 10 23
+wait 22 5
+wait 14 10
+event 28
+event 12
+end 66
+end 72
+event 0
+wait 25 47
+wait 0 4
+wait 3 69
+end 66
+event 21
+wait 5 46
+wait 13 21
+end 12
+event 3
+wait 10 69
+wait 1 27
+wait 10 72
+wait 31 70
+end 66
+event 1
+wait 23 27
+event 22
+wait 22 5
+end 46
+event 31
+event 0
+event 22
+wait 7 70
+wait 33 5
+wait 29 4
+event 19
+wait 32 12
+event 33
+wait 31 5
+wait 2 40
+event 6
+wait 1 73
+wait 11 20
+end 10
+event 25
+wait 0 47
+end 5
+end 47
+end 34
+event 26
+wait 11 77
+end 40
+wait 10 79
+event 29
+wait 30 4
+end 40
+event 23
+wait 14 27
+event 30
+wait 32 4
+wait 2 66
+event 2
+wait 21 40
+wait 21 66
+end 73
+event 0
+wait 21 47
+event 17
+wait 10 34
+event 31
+wait 1 5
+end 5
+event 7
+end 28
+wait 34 70
+event 15
+wait 22 38
+event 10
+wait 11 69
+event 34
+wait 16 23
+end 4
+wait 10 28
+wait 8 34
+event 11
+end 73
+wait 21 72
+wait 21 79
+wait 13 20
+event 8
+wait 32 77
+wait 31 70
+wait 27 34
+wait 22 69
+event 31
+wait 12 70
+event 27
+wait 21 34
+event 22
+wait 23 38
+wait 18 69
+event 12
+wait 24 70
+end 77
+event 18
+event 5
+end 46
+end 4
+wait 25 69
+event 24
+wait 14 70
+end 66
+end 68
+event 25
+wait 2 69
+event 21
+wait 10 34
+wait 2 79
+wait 24 47
+wait 29 40
+event 16
+wait 10 72
+end 20
+event 29
+wait 31 40
+wait 10 66
+wait 17 23
+end 12
+end 77
+end 27
+end 40
+event 14
+end 34
+wait 25 70
+wait 25 27
+end 79
+wait 25 10
+end 69
+end 68
+event 17
+wait 1 23
+event 31
+event 24
+wait 25 47
+wait 33 40
+end 66
+end 38
+event 10
+event 25
+wait 32 66
+wait 32 27
+wait 2 47
+wait 13 70
+wait 26 72
+wait 13 28
+wait 1 34
+wait 12 10
+event 12
+wait 23 10
+end 66
+event 26
+wait 17 72
+event 4
+wait 15 68
+end 40
+end 73
+event 32
+wait 23 77
+end 38
+event 17
+wait 8 66
+wait 28 27
+wait 2 12
+wait 7 4
+wait 25 72
+event 23
+wait 24 10
+wait 30 38
+wait 17 77
+end 10
+event 17
+wait 24 77
+end 21
+event 24
+wait 7 10
+wait 2 77
+event 13
+wait 6 28
+wait 28 20
+event 15
+end 28
+wait 10 70
+wait 14 21
+wait 22 68
+event 7
+event 10
+wait 4 10
+wait 7 4
+wait 25 70
+end 10
+event 30
+wait 11 38
+end 40
+event 14
+end 69
+wait 16 21
+end 69
+event 22
+wait 0 68
+event 25
+wait 28 72
+wait 27 70
+event 2
+wait 11 69
+event 16
+wait 21 77
+wait 11 47
+wait 7 21
+event 0
+end 27
+wait 14 68
+event 6
+wait 22 12
+wait 19 79
+wait 1 28
+end 5
+end 77
+end 72
+end 23
+event 33
+wait 3 40
+event 14
+wait 9 68
+end 21
+end 72
+end 68
+end 4
+end 40
+event 3
+wait 6 40
+event 1
+wait 10 23
+wait 6 73
+wait 12 28
+event 22
+wait 31 34
+wait 20 12
+wait 19 5
+event 31
+wait 27 34
+event 27
+wait 20 70
+wait 22 34
+end 73
+end 72
+event 10
+wait 20 23
+event 19
+end 10
+wait 15 79
+wait 13 5
+end 28
+event 9
+wait 0 68
+end 40
+end 23
+event 15
+event 13
+wait 32 79
+wait 19 5
+event 28
+wait 5 72
+end 12
+wait 3 27
+wait 13 20
+end 77
+end 5
+event 32
+wait 30 79
+event 20
+wait 25 12
+wait 20 23
+event 21
+wait 14 77
+wait 25 70
+event 4
+wait 0 10
+end 23
+end 40
+event 3
+wait 25 27
+event 25
+wait 26 12
+event 13
+wait 27 27
+event 20
+end 40
+wait 23 70
+wait 16 20
+wait 3 23
+event 7
+wait 26 4
+wait 33 21
+end 69
+event 22
+wait 11 34
+event 0
+end 23
+wait 18 68
+wait 34 10
+event 12
+wait 12 28
+event 26
+event 12
+wait 28 28
+event 8
+wait 6 12
+wait 23 66
+wait 28 4
+end 10
+event 23
+wait 28 70
+event 34
+event 3
+end 5
+wait 6 10
+wait 2 23
+wait 28 66
+end 4
+event 11
+wait 23 34
+wait 5 47
+wait 4 38
+wait 16 69
+end 4
+event 27
+wait 23 27
+event 5
+wait 25 72
+wait 3 47
+event 14
+wait 4 77
+event 4
+wait 25 38
+end 12
+wait 27 77
+end 72
+event 33
+wait 6 21
+event 30
+wait 14 79
+event 2
+end 12
+wait 29 23
+end 73
+event 6
+wait 7 10
+wait 25 40
+wait 17 73
+wait 11 21
+event 23
+wait 34 27
+event 3
+wait 13 12
+wait 13 34
+end 10
+wait 18 47
+end 72
+event 29
+event 34
+wait 25 23
+wait 12 27
+event 11
+wait 10 21
+event 12
+wait 12 27
+event 25
+wait 27 72
+wait 2 23
+wait 34 38
+wait 4 40
+event 7
+event 34
+wait 26 10
+wait 32 38
+end 28
+event 18
+wait 18 68
+wait 27 47
+end 38
+event 32
+wait 29 38
+end 70
+event 26
+wait 34 10
+end 20
+event 12
+event 34
+event 18
+wait 18 68
+wait 1 10
+wait 15 27
+event 14
+wait 6 79
+end 23
+event 15
+wait 9 27
+event 1
+event 19
+event 28
+wait 25 28
+wait 19 10
+wait 20 66
+end 20
+event 6
+wait 13 4
+event 2
+wait 22 5
+wait 28 79
+wait 16 23
+wait 12 70
+end 4
+event 27
+wait 32 72
+event 28
+wait 14 79
+wait 20 47
+wait 13 77
+event 20
+wait 20 66
+wait 12 47
+end 21
+end 28
+event 18
+wait 27 68
+end 27
+end 34
+end 23
+event 19
+wait 16 10
+event 14
+wait 25 79
+end 73
+event 29
+event 17
+wait 28 73
+event 25
+wait 7 28
+wait 15 79
+wait 5 38
+event 9
+wait 10 27
+end 68
+end 5
+end 77
+end 23
+event 7
+event 28
+wait 34 73
+wait 7 28
+event 20
+wait 22 66
+event 7
+wait 11 28
+event 11
+wait 1 28
+event 22
+wait 9 66
+wait 11 5
+event 1
+wait 3 28
+event 12
+wait 11 70
+wait 13 47
+event 13
+wait 0 34
+wait 29 47
+wait 6 12
+event 16
+wait 5 77
+end 4
+wait 0 20
+event 29
+wait 11 10
+wait 28 69
+end 77
+wait 20 47
+wait 34 23
+end 40
+end 38
+event 11
+wait 11 5
+wait 34 70
+end 68
+event 15
+end 72
+wait 14 10
+wait 7 79
+event 28
+wait 27 69
+event 10
+wait 0 21
+wait 3 27
+event 7
+wait 26 79
+event 20
+wait 22 47
+end 34
+end 5
+event 11
+wait 4 5
+event 9
+wait 29 66
+end 21
+event 0
+wait 29 34
+event 26
+wait 28 21
+wait 28 20
+wait 4 79
+event 4
+wait 10 79
+wait 13 5
+end 21
+wait 20 40
+end 79
+event 3
+wait 21 27
+wait 21 28
+event 13
+wait 27 5
+end 40
+end 72
+end 69
+end 72
+event 27
+wait 8 68
+event 5
+wait 4 38
+event 22
+wait 31 47
+event 4
+wait 17 77
+wait 3 38
+wait 17 69
+wait 12 5
+end 70
+event 3
+wait 1 38
+event 28
+wait 30 20
+wait 30 21
+end 72
+event 1
+wait 31 38
+event 21
+wait 17 28
+wait 33 27
+end 72
+event 20
+event 14
+wait 24 40
+wait 6 10
+event 6
+wait 7 10
+wait 17 12
+event 33
+wait 27 27
+event 10
+wait 32 79
+end 72
+event 27
+wait 20 27
+end 27
+end 70
+event 30
+wait 21 21
+event 31
+wait 12 20
+wait 0 47
+wait 18 38
+end 34
+event 21
+wait 18 21
+event 8
+event 18
+event 24
+wait 26 38
+wait 24 68
+wait 31 40
+wait 14 21
+event 7
+wait 16 10
+end 20
+end 68
+end 38
+end 21
+event 17
+wait 15 28
+wait 5 77
+wait 18 12
+wait 27 69
+event 16
+wait 0 10
+event 5
+wait 29 77
+event 0
+wait 20 47
+wait 23 10
+event 23
+event 18
+event 34
+wait 34 73
+wait 33 23
+wait 1 10
+end 72
+end 10
+wait 19 12
+wait 17 70
+end 70
+event 15
+event 19
+wait 14 28
+event 14
+wait 6 21
+wait 2 12
+wait 6 28
+event 12
+wait 22 5
+wait 22 20
+end 28
+event 26
+event 20
+end 34
+wait 10 38
+wait 26 47
+wait 10 27
+event 6
+wait 0 21
+wait 6 28
+end 23
+event 22
+wait 13 5
+wait 28 20
+end 5
+end 72
+event 28
+wait 11 20
+event 11
+wait 15 20
+event 32
+wait 14 79
+wait 10 72
+event 1
+wait 29 10
+end 12
+event 6
+wait 24 28
+event 34
+event 10
+event 17
+event 31
+wait 20 72
+wait 32 70
+wait 17 73
+wait 32 27
+wait 3 40
+wait 3 38
+event 17
+wait 31 73
+event 20
+wait 13 72
+end 70
+event 2
+wait 9 12
+event 26
+wait 1 47
+end 21
+event 3
+wait 9 40
+wait 2 38
+end 70
+end 12
+end 38
+event 32
+wait 5 70
+wait 2 27
+end 38
+event 24
+wait 10 68
+wait 3 28
+event 0
+wait 2 21
+event 9
+wait 11 12
+wait 11 40
+end 27
+event 14
+wait 6 79
+end 28
+event 6
+wait 18 79
+end 5
+end 28
+event 11
+wait 6 12
+wait 13 40
+event 10
+event 2
+wait 25 27
+wait 25 68
+wait 32 21
+wait 12 38
+end 79
+event 6
+end 73
+wait 3 12
+end 34
+event 5
+wait 6 70
+end 23
+event 1
+wait 0 47
+end 70
+event 25
+end 69
+wait 16 68
+wait 18 27
+event 29
+wait 21 77
+wait 17 34
+wait 8 66
+wait 17 10
+event 15
+wait 8 20
+end 77
+end 73
+end 69
+event 3
+wait 1 28
+wait 32 12
+event 27
+wait 22 69
+end 40
+event 13
+wait 3 72
+wait 32 40
+end 20
+wait 0 5
+event 17
+event 18
+wait 22 27
+end 70
+wait 33 79
+wait 1 10
+wait 25 34
+end 10
+end 79
+end 66
+event 32
+wait 26 12
+wait 1 21
+event 1
+event 21
+wait 6 77
+event 12
+wait 18 28
+wait 2 40
+wait 5 38
+wait 26 10
+event 33
+wait 20 23
+event 20
+wait 27 21
+wait 22 79
+wait 24 23
+end 77
+event 2
+wait 25 40
+end 73
+event 8
+end 38
+event 26
+wait 23 66
+wait 9 10
+wait 14 20
+wait 29 12
+end 72
+event 0
+wait 27 5
+event 18
+wait 9 28
+wait 15 47
+event 23
+wait 10 66
+event 31
+wait 11 73
+end 28
+event 6
+wait 33 70
+end 69
+wait 13 77
+event 13
+event 14
+wait 8 20
+wait 10 77
+event 16
+event 9
+event 33
+end 77
+wait 19 10
+wait 18 70
+wait 12 28
+wait 29 68
+event 10
+end 38
+wait 19 66
+wait 8 77
+event 27
+end 66
+end 20
+wait 26 21
+end 5
+event 25
+wait 16 34
+event 19
+event 16
+wait 8 10
+wait 4 40
+wait 10 34
+wait 24 66
+event 4
+wait 34 40
+event 22
+wait 23 79
+wait 19 69
+event 8
+wait 25 20
+event 34
+event 12
+wait 14 28
+wait 9 77
+end 28
+wait 12 40
+wait 2 10
+wait 16 27
+end 68
+end 34
+event 19
+wait 11 69
+event 5
+wait 0 38
+end 12
+end 23
+event 25
+event 12
+wait 18 40
+event 18
+event 11
+wait 4 40
+wait 28 70
+wait 13 73
+wait 2 69
+wait 0 20
+event 29
+end 10
+event 0
+wait 7 38
+wait 26 20
+wait 27 12
+wait 21 68
+event 28
+end 38
+wait 8 70
+end 79
+end 73
+event 3
+wait 27 72
+event 23
+wait 22 79
+event 27
+event 4
+wait 29 40
+wait 6 72
+wait 31 12
+event 13
+end 77
+wait 25 73
+end 21
+event 6
+event 22
+wait 27 79
+event 8
+wait 16 72
+wait 29 70
+event 26
+end 10
+end 79
+end 34
+end 12
+wait 20 21
+wait 3 20
+event 9
+event 20
+wait 5 77
+wait 33 21
+event 10
+wait 24 34
+event 15
+wait 9 47
+end 21
+end 70
+event 21
+event 25
+wait 10 68
+wait 20 73
+end 34
+event 3
+wait 15 20
+event 7
+event 16
+wait 11 38
+end 66
+wait 31 72
+event 27
+wait 28 79
+wait 9 27
+event 11
+event 2
+wait 26 10
+wait 15 69
+end 68
+wait 23 38
+event 10
+wait 18 68
+event 9
+wait 13 47
+wait 6 27
+event 13
+wait 31 47
+event 26
+wait 17 10
+end 21
+end 10
+event 20
+wait 18 73
+event 31
+event 18
+event 6
+event 29
+wait 8 47
+wait 25 68
+wait 3 40
+wait 29 27
+wait 9 70
+wait 9 12
+wait 2 73
+event 33
+event 3
+wait 25 72
+event 29
+wait 29 21
+wait 31 40
+wait 22 27
+end 21
+event 23
+wait 22 38
+event 2
+wait 29 73
+event 28
+wait 22 79
+event 15
+wait 29 20
+event 14
+wait 0 69
+wait 30 28
+event 30
+wait 14 28
+event 0
+wait 34 69
+end 73
+event 8
+wait 21 47
+end 23
+event 22
+wait 9 27
+wait 3 79
+wait 0 38
+event 0
+wait 7 38
+event 25
+wait 15 68
+wait 3 72
+event 9
+wait 30 27
+wait 4 12
+wait 8 70
+end 27
+end 72
+event 5
+wait 26 77
+end 12
+event 24
+end 40
+wait 7 23
+wait 11 66
+wait 14 34
+end 73
+end 38
+end 27
+event 29
+wait 3 21
+wait 34 73
+wait 8 20
+end 21
+event 21
+wait 5 47
+event 5
+wait 34 47
+end 40
+event 34
+wait 15 73
+wait 13 69
+end 73
+event 11
+wait 29 47
+event 29
+wait 20 47
+wait 1 66
+event 4
+wait 32 12
+event 26
+wait 22 77
+end 21
+event 30
+wait 29 27
+event 20
+wait 23 47
+event 22
+wait 13 77
+end 40
+event 32
+wait 26 12
+event 26
+wait 15 12
+end 72
+event 31
+wait 24 40
+end 73
+event 24
+wait 20 40
+end 73
+event 29
+wait 33 27
+event 7
+event 20
+wait 13 23
+wait 13 38
+end 66
+wait 18 40
+event 17
+wait 9 10
+event 13
+wait 5 38
+wait 29 23
+wait 23 77
+wait 33 69
+end 69
+event 29
+wait 6 23
+end 27
+event 33
+event 15
+wait 27 68
+wait 18 73
+wait 33 12
+wait 1 27
+wait 13 69
+event 3
+wait 9 72
+event 18
+event 33
+wait 24 73
+wait 23 40
+wait 22 21
+wait 2 79
+end 28
+wait 16 12
+event 27
+wait 8 68
+end 70
+event 2
+wait 29 79
+end 23
+event 8
+event 16
+wait 0 12
+wait 33 70
+wait 9 68
+wait 13 20
+event 29
+event 22
+wait 30 79
+wait 16 21
+end 69
+end 38
+event 23
+end 66
+wait 33 47
+wait 20 40
+wait 8 77
+event 8
+wait 8 77
+end 38
+event 1
+wait 34 27
+wait 11 66
+end 27
+event 30
+wait 34 79
+event 20
+wait 1 40
+event 16
+wait 23 21
+end 40
+event 23
+event 8
+wait 7 77
+wait 14 21
+event 24
+wait 34 73
+event 1
+wait 30 40
+event 11
+wait 32 66
+end 66
+event 33
+end 27
+wait 10 70
+wait 27 47
+end 79
+end 47
+end 73
+event 5
+wait 4 38
+event 13
+wait 27 69
+wait 31 20
+event 0
+wait 8 12
+event 27
+wait 1 47
+wait 10 69
+end 47
+event 14
+wait 34 34
+wait 5 21
+wait 18 28
+event 9
+wait 25 72
+event 31
+end 79
+event 25
+end 79
+wait 0 68
+wait 26 20
+wait 6 10
+wait 24 72
+event 30
+wait 5 40
+end 79
+event 4
+wait 3 38
+event 32
+event 8
+wait 31 66
+wait 28 12
+event 10
+wait 34 69
+wait 0 70
+event 5
+event 3
+wait 22 40
+wait 22 21
+wait 18 38
+event 6
+wait 25 10
+wait 10 23
+end 77
+end 38
+end 70
+end 27
+end 28
+event 31
+wait 26 66
+event 26
+end 72
+wait 3 20
+wait 16 66
+event 28
+wait 2 12
+event 34
+wait 20 34
+wait 20 73
+wait 4 69
+wait 20 27
+wait 19 79
+event 0
+wait 9 68
+event 19
+end 73
+end 21
+wait 4 70
+wait 19 79
+event 10
+wait 24 23
+end 12
+end 72
+end 12
+end 27
+end 28
+end 34
+end 10
+end 23
+event 20
+wait 22 27
+wait 5 34
+wait 9 73
+event 3
+end 73
+end 72
+wait 18 20
+event 5
+wait 5 34
+end 79
+end 10
+event 7
+event 16
+wait 7 77
+event 18
+wait 6 38
+event 4
+end 20
+end 69
+wait 4 28
+wait 12 70
+wait 33 66
+event 4
+end 70
+wait 3 28
+event 9
+event 2
+event 5
+wait 18 12
+wait 31 68
+wait 19 73
+wait 16 34
+end 12
+end 23
+end 21
+event 25
+wait 3 10
+event 3
+end 27
+wait 2 28
+wait 19 10
+end 72
+end 10
+event 1
+wait 10 47
+event 31
+end 66
+event 24
+wait 26 23
+wait 2 72
+wait 5 68
+event 19
+wait 21 73
+event 21
+wait 1 10
+wait 17 79
+end 27
+wait 6 73
+event 33
+wait 20 66
+event 22
+wait 10 27
+wait 9 21
+wait 22 40
+event 10
+wait 8 47
+wait 28 27
+end 38
+event 6
+event 5
+event 28
+wait 26 27
+wait 12 38
+wait 7 68
+wait 24 73
+event 2
+wait 8 72
+end 47
+wait 17 28
+end 10
+event 20
+wait 13 66
+event 17
+event 16
+wait 28 79
+event 28
+wait 2 34
+event 7
+wait 17 77
+wait 19 28
+wait 10 79
+wait 29 68
+event 1
+event 2
+wait 30 10
+wait 14 34
+event 14
+wait 34 34
+event 22
+wait 30 40
+event 29
+wait 2 68
+event 2
+wait 24 68
+end 38
+event 30
+wait 1 10
+wait 9 40
+event 9
+wait 3 21
+end 10
+event 17
+wait 15 77
+event 3
+event 19
+wait 23 28
+end 21
+wait 32 40
+event 15
+event 1
+wait 9 10
+end 27
+wait 12 77
+event 10
+wait 6 79
+event 8
+wait 1 72
+event 23
+wait 13 47
+wait 16 28
+event 24
+wait 4 73
+event 13
+wait 3 47
+event 26
+wait 25 27
+wait 18 66
+wait 27 68
+wait 7 23
+event 12
+end 34
+wait 25 38
+wait 24 77
+event 3
+wait 15 47
+wait 0 70
+event 24
+wait 31 77
+event 6
+end 12
+wait 16 79
+event 4
+wait 33 73
+event 34
+wait 9 34
+event 9
+wait 4 34
+end 70
+wait 0 10
+end 40
+end 79
+event 32
+wait 1 40
+end 77
+event 31
+wait 7 77
+event 1
+wait 4 72
+wait 28 40
+event 15
+wait 31 47
+event 25
+event 16
+wait 20 27
+event 0
+wait 34 38
+wait 4 79
+wait 25 28
+end 72
+wait 16 70
+event 34
+wait 0 38
+wait 11 10
+end 34
+event 18
+wait 7 66
+wait 13 12
+event 0
+wait 12 38
+event 13
+wait 21 12
+end 77
+event 28
+event 12
+wait 13 40
+wait 20 38
+event 16
+end 79
+wait 11 70
+event 7
+event 21
+end 77
+wait 21 23
+wait 5 66
+wait 9 12
+end 27
+end 12
+event 27
+wait 7 68
+event 9
+wait 19 12
+end 34
+end 68
+end 66
+event 7
+wait 31 68
+event 33
+event 4
+wait 26 34
+wait 20 73
+wait 33 79
+wait 16 72
+event 31
+wait 5 68
+wait 14 47
+event 21
+wait 27 23
+end 79
+event 19
+wait 14 12
+event 5
+wait 27 66
+wait 16 68
+event 20
+wait 33 27
+wait 23 38
+wait 3 73
+event 23
+wait 25 38
+event 11
+wait 22 70
+wait 18 10
+end 73
+event 22
+wait 32 70
+end 70
+event 32
+wait 29 70
+event 29
+wait 26 70
+end 12
+event 18
+wait 9 10
+event 3
+wait 29 73
+event 14
+wait 3 12
+wait 24 47
+end 38
+end 73
+end 79
+event 27
+wait 16 23
+wait 5 66
+end 34
+end 38
+end 79
+event 9
+wait 32 10
+event 13
+wait 16 40
+event 5
+wait 4 66
+event 4
+wait 29 66
+end 10
+event 32
+wait 3 10
+end 34
+event 33
+wait 20 27
+event 29
+end 66
+wait 6 79
+wait 8 73
+event 26
+wait 13 70
+end 72
+wait 27 34
+end 38
+end 27
+event 16
+wait 1 68
+end 27
+wait 17 72
+event 25
+wait 17 40
+wait 24 38
+wait 13 23
+wait 5 28
+event 13
+wait 24 70
+wait 8 23
+event 17
+event 3
+wait 11 12
+wait 9 40
+wait 23 72
+wait 18 10
+event 11
+event 6
+wait 2 79
+wait 0 12
+end 47
+end 73
+event 1
+wait 22 68
+end 34
+event 8
+wait 9 73
+wait 5 23
+end 79
+event 2
+wait 22 79
+event 5
+wait 14 28
+wait 34 23
+end 12
+end 47
+end 38
+event 27
+wait 27 34
+event 27
+wait 24 34
+end 73
+event 23
+wait 10 72
+end 34
+end 47
+end 73
+end 27
+event 0
+wait 26 12
+event 18
+wait 8 10
+end 40
+event 34
+wait 22 23
+end 73
+end 47
+event 24
+wait 22 34
+event 8
+wait 6 47
+wait 34 10
+wait 23 70
+wait 17 38
+end 47
+event 20
+wait 20 27
+event 9
+wait 19 73
+wait 24 40
+end 40
+end 12
+end 73
+event 19
+wait 7 73
+end 68
+event 23
+wait 34 70
+event 6
+wait 34 47
+end 70
+event 24
+wait 5 40
+event 7
+wait 28 73
+event 22
+wait 30 34
+wait 21 23
+wait 33 68
+wait 13 79
+end 73
+event 5
+wait 12 40
+end 47
+event 17
+wait 31 38
+event 34
+event 10
+wait 19 10
+wait 33 72
+wait 5 47
+wait 31 70
+event 21
+wait 16 23
+event 31
+wait 23 38
+wait 0 70
+event 23
+wait 33 38
+event 28
+wait 16 73
+end 23
+event 14
+wait 11 28
+end 79
+event 26
+wait 4 12
+event 4
+wait 2 12
+event 33
+wait 32 68
+wait 32 72
+wait 13 38
+event 32
+wait 21 72
+wait 33 68
+event 21
+wait 15 72
+event 20
+end 79
+event 19
+end 27
+wait 1 10
+end 40
+event 12
+event 11
+wait 13 28
+wait 33 40
+event 16
+wait 9 23
+wait 1 73
+event 0
+wait 10 70
+event 10
+wait 21 70
+event 13
+wait 13 79
+wait 4 38
+wait 5 28
+event 30
+wait 0 34
+end 40
+event 4
+event 5
+wait 11 47
+wait 1 28
+event 11
+wait 32 38
+wait 26 47
+end 38
+event 9
+wait 26 23
+event 0
+wait 14 34
+end 23
+event 33
+wait 19 68
+wait 13 40
+event 19
+end 72
+wait 22 68
+event 15
+wait 23 72
+event 1
+event 23
+event 21
+wait 33 28
+event 26
+wait 6 70
+wait 28 23
+wait 6 47
+wait 20 10
+wait 29 73
+event 32
+wait 2 72
+wait 30 38
+end 12
+end 40
+event 30
+wait 25 38
+event 22
+wait 23 68
+event 20
+end 28
+wait 30 10
+event 23
+wait 6 68
+event 28
+wait 10 23
+event 33
+wait 21 28
+end 47
+event 25
+wait 20 38
+event 30
+wait 5 10
+event 14
+wait 7 34
+event 7
+wait 18 34
+event 2
+wait 34 72
+wait 7 12
+end 34
+end 40
+event 18
+wait 5 34
+end 12
+event 13
+wait 2 40
+wait 12 79
+event 20
+wait 13 38
+end 68
+event 34
+wait 11 72
+event 13
+event 21
+wait 33 28
+wait 31 38
+end 38
+end 34
+event 33
+wait 24 28
+event 10
+event 6
+wait 16 70
+wait 6 47
+end 23
+event 7
+event 31
+wait 23 12
+end 79
+wait 30 38
+wait 10 68
+event 11
+wait 2 72
+end 73
+end 40
+end 73
+end 10
+event 24
+wait 5 28
+event 6
+wait 34 47
+event 16
+wait 11 70
+event 10
+wait 15 68
+event 5
+wait 26 28
+wait 7 34
+event 23
+wait 20 12
+wait 20 10
+event 15
+wait 34 68
+event 29
+end 40
+wait 27 73
+end 34
+event 7
+wait 6 34
+end 73
+event 30
+wait 16 38
+event 27
+wait 28 73
+event 34
+wait 24 68
+wait 29 47
+event 16
+wait 32 38
+end 38
+end 73
+event 11
+wait 0 70
+event 12
+wait 11 79
+event 24
+wait 12 68
+event 29
+wait 34 47
+event 20
+wait 18 12
+wait 31 10
+end 70
+event 18
+event 11
+wait 19 12
+wait 22 79
+event 22
+wait 0 79
+event 0
+wait 34 79
+event 19
+event 2
+wait 27 40
+wait 28 12
+wait 21 70
+wait 8 72
+event 27
+wait 16 40
+event 8
+end 12
+wait 11 72
+event 26
+wait 3 28
+event 32
+end 40
+wait 25 38
+event 21
+wait 11 70
+event 34
+wait 30 79
+wait 0 47
+event 11
+event 28
+event 31
+event 12
+end 47
+wait 4 12
+wait 0 72
+wait 32 73
+wait 1 10
+event 0
+wait 17 68
+wait 1 47
+wait 15 72
+wait 15 70
+end 47
+event 17
+wait 17 68
+event 15
+event 3
+wait 5 72
+wait 12 70
+event 30
+wait 15 28
+wait 20 79
+event 12
+wait 4 70
+end 38
+event 20
+wait 4 79
+end 70
+end 34
+end 70
+event 1
+wait 30 47
+end 38
+wait 9 10
+end 68
+end 79
+end 28
+event 15
+wait 7 28
+event 17
+wait 14 68
+end 47
+end 38
+event 6
+wait 16 34
+event 14
+end 12
+wait 11 68
+event 7
+wait 22 28
+event 25
+wait 34 38
+end 28
+end 10
+event 5
+event 4
+wait 21 79
+wait 0 72
+end 40
+wait 13 12
+wait 12 70
+event 22
+event 21
+event 0
+end 38
+wait 13 28
+wait 7 79
+event 30
+event 32
+wait 9 47
+wait 26 73
+wait 26 72
+event 34
+wait 25 38
+event 9
+wait 20 10
+event 16
+wait 22 34
+wait 22 47
+wait 34 40
+end 73
+event 26
+wait 33 72
+wait 8 73
+end 28
+event 25
+event 8
+event 34
+event 20
+wait 33 10
+wait 17 40
+end 38
+wait 16 73
+event 12
+wait 8 70
+event 17
+wait 32 40
+end 47
+event 11
+wait 0 68
+event 13
+wait 17 12
+wait 16 28
+event 22
+wait 24 34
+wait 20 47
+event 20
+wait 3 47
+event 3
+wait 27 47
+event 24
+wait 23 34
+event 23
+wait 26 34
+event 32
+wait 20 40
+event 17
+wait 21 12
+event 33
+wait 5 10
+wait 2 72
+end 47
+event 2
+wait 19 72
+event 21
+wait 21 12
+end 40
+event 27
+wait 19 47
+event 20
+wait 32 40
+event 5
+wait 10 10
+end 79
+end 12
+end 34
+event 16
+event 8
+wait 16 70
+wait 9 73
+wait 6 28
+end 10
+end 40
+event 26
+wait 7 34
+end 40
+end 68
+event 0
+event 9
+wait 8 68
+wait 1 73
+event 7
+wait 8 79
+wait 33 34
+end 47
+event 32
+wait 25 40
+end 28
+event 16
+wait 30 70
+event 8
+event 25
+wait 20 40
+wait 12 79
+wait 17 68
+event 20
+end 12
+wait 33 40
+end 47
+event 21
+wait 0 12
+event 12
+wait 26 79
+event 6
+wait 10 28
+end 40
+event 26
+wait 13 79
+event 19
+wait 0 47
+wait 30 72
+end 10
+end 72
+event 17
+wait 30 68
+event 33
+wait 32 40
+wait 24 34
+event 1
+wait 27 73
+end 47
+end 12
+end 28
+end 70
+end 47
+end 34
+event 24
+wait 8 34
+event 13
+wait 31 79
+event 0
+wait 33 12
+wait 5 47
+event 8
+wait 16 34
+end 70
+event 10
+wait 17 10
+wait 0 28
+event 33
+wait 0 12
+event 30
+wait 10 70
+wait 0 68
+wait 20 72
+event 16
+wait 32 34
+event 27
+wait 21 73
+event 20
+end 70
+wait 32 72
+event 21
+wait 8 73
+event 10
+wait 1 70
+end 72
+event 5
+wait 30 47
+event 0
+wait 29 28
+end 40
+wait 7 68
+wait 11 12
+event 29
+wait 8 28
+event 31
+wait 25 79
+end 47
+event 17
+wait 10 10
+event 11
+wait 13 12
+end 72
+event 30
+wait 3 47
+event 13
+end 47
+wait 16 12
+end 10
+event 1
+end 10
+wait 8 70
+end 34
+end 12
+end 28
+event 8
+wait 5 73
+end 70
+wait 24 28
+event 3
+wait 20 47
+end 68
+end 12
+event 16
+event 10
+wait 29 12
+wait 25 10
+event 5
+wait 31 73
+event 7
+end 79
+event 31
+wait 14 68
+event 29
+wait 7 73
+wait 25 12
+event 24
+wait 16 28
+end 10
+event 7
+wait 31 73
+end 34
+event 16
+wait 24 28
+event 20
+event 31
+wait 4 73
+wait 28 47
+event 14
+wait 18 68
+event 32
+wait 6 34
+wait 4 72
+wait 23 40
+event 6
+end 28
+event 28
+wait 27 47
+wait 16 34
+event 23
+wait 18 40
+end 10
+end 72
+end 12
+event 16
+wait 27 34
+event 18
+wait 11 68
+event 4
+wait 34 40
+wait 1 73
+wait 33 72
+event 1
+event 11
+wait 28 73
+wait 8 68
+end 68
+event 28
+event 25
+wait 9 73
+wait 29 10
+event 34
+wait 8 79
+end 79
+wait 13 40
+wait 11 12
+end 72
+end 79
+event 9
+wait 2 73
+event 11
+wait 4 12
+event 27
+wait 20 47
+wait 2 34
+end 12
+event 13
+wait 29 40
+event 33
+end 34
+wait 30 72
+event 24
+wait 20 28
+end 40
+end 68
+event 30
+wait 17 72
+end 79
+end 34
+end 68
+end 28
+event 17
+wait 14 72
+end 12
+end 47
+end 34
+event 29
+wait 34 10
+end 10
+event 2
+wait 8 73
+wait 20 40
+wait 22 34
+end 47
+end 34
+event 34
+wait 8 10
+event 8
+wait 33 79
+wait 23 68
+wait 33 10
+wait 27 73
+end 34
+event 22
+wait 2 34
+event 14
+wait 6 72
+event 33
+end 10
+wait 1 79
+event 2
+wait 5 34
+event 6
+wait 32 72
+event 20
+wait 21 40
+wait 30 47
+wait 0 28
+event 30
+wait 24 47
+event 32
+wait 23 72
+event 4
+end 73
+wait 25 12
+end 40
+end 47
+event 5
+wait 19 34
+event 0
+wait 8 28
+event 27
+wait 23 73
+end 47
+event 19
+wait 16 34
+event 8
+wait 22 28
+end 79
+end 12
+end 47
+end 28
+end 34
+end 72
+event 23
+wait 20 72
+wait 1 68
+wait 23 73
+event 23
+wait 8 73
+event 25
+wait 14 12
+end 12
+event 20
+wait 29 72
+event 22
+end 79
+wait 5 28
+event 21
+wait 5 40
+event 29
+wait 2 72
+event 1
+wait 26 68
+wait 3 79
+event 24
+wait 11 47
+event 8
+wait 26 73
+end 34
+event 5
+wait 15 28
+wait 17 40
+end 68
+end 79
+event 2
+wait 20 72
+end 28
+end 79
+event 15
+wait 11 28
+event 16
+wait 28 34
+end 40
+end 47
+event 20
+wait 6 72
+event 11
+wait 20 47
+wait 14 28
+event 6
+wait 32 72
+end 47
+event 32
+wait 3 72
+end 79
+event 17
+wait 17 40
+end 28
+end 40
+event 26
+wait 6 73
+wait 27 68
+event 3
+end 72
+wait 16 79
+end 79
+end 73
+end 34
+end 68
+end 28
+event 27
+wait 32 68
+event 20
+wait 28 47
+event 16
+wait 19 79
+end 68
+event 32
+wait 34 68
+end 40
+event 17
+wait 5 40
+end 79
+event 19
+wait 5 79
+end 68
+event 5
+wait 9 79
+wait 15 40
+event 15
+wait 16 40
+event 14
+wait 13 12
+wait 18 28
+event 6
+wait 32 73
+event 13
+wait 17 12
+end 68
+event 28
+wait 14 34
+wait 29 47
+end 73
+event 34
+wait 31 68
+end 47
+end 73
+end 79
+event 17
+wait 6 12
+event 16
+wait 15 40
+end 73
+event 29
+wait 27 47
+event 9
+event 31
+event 14
+wait 19 79
+wait 21 34
+event 18
+wait 11 28
+wait 32 68
+end 12
+event 32
+wait 2 73
+wait 24 68
+event 2
+wait 1 73
+event 24
+wait 12 68
+event 6
+wait 28 12
+event 19
+wait 8 79
+event 15
+wait 26 40
+event 21
+wait 27 34
+event 1
+wait 28 73
+end 68
+event 28
+wait 4 12
+wait 32 73
+event 26
+wait 13 40
+event 12
+wait 34 68
+event 8
+wait 25 79
+end 28
+event 27
+wait 0 47
+wait 31 34
+event 4
+wait 27 12
+end 73
+end 79
+event 11
+wait 25 28
+event 34
+end 68
+event 27
+wait 23 12
+event 0
+wait 17 47
+end 40
+end 73
+event 25
+wait 11 28
+wait 17 79
+event 32
+wait 18 73
+end 12
+event 17
+wait 12 79
+wait 3 47
+event 23
+wait 0 12
+end 47
+end 40
+event 3
+end 47
+end 12
+event 11
+end 28
+event 0
+wait 22 12
+event 31
+wait 8 34
+end 12
+event 8
+wait 20 34
+end 12
+event 12
+wait 3 79
+end 73
+event 3
+wait 20 79
+event 20
+wait 9 79
+wait 14 34
+event 9
+event 13
+wait 2 40
+wait 16 79
+end 34
+end 73
+event 18
+wait 28 73
+event 14
+wait 27 34
+event 28
+wait 21 73
+event 27
+wait 18 34
+end 40
+event 18
+wait 8 34
+event 2
+wait 21 40
+event 21
+wait 18 73
+wait 2 40
+end 40
+end 73
+event 16
+event 18
+wait 33 73
+wait 4 79
+event 2
+wait 34 40
+end 79
+event 33
+wait 23 73
+end 34
+event 23
+event 4
+wait 3 73
+wait 9 79
+end 34
+event 3
+wait 34 73
+end 79
+event 8
+wait 6 34
+event 22
+wait 19 12
+event 34
+wait 9 73
+wait 11 40
+end 79
+event 19
+wait 0 12
+end 79
+end 12
+event 9
+wait 33 79
+wait 13 73
+event 33
+wait 8 79
+event 13
+wait 9 73
+event 8
+wait 18 79
+event 9
+wait 31 73
+event 31
+wait 26 73
+event 11
+wait 33 40
+end 73
+end 79
+event 0
+wait 19 12
+event 26
+wait 24 73
+event 24
+wait 21 73
+event 18
+wait 5 79
+event 19
+wait 27 12
+event 5
+wait 10 79
+end 34
+end 40
+event 6
+wait 28 34
+event 21
+wait 7 73
+event 28
+wait 15 34
+end 12
+event 33
+wait 31 40
+event 31
+wait 3 40
+event 10
+wait 26 79
+end 34
+event 7
+wait 17 73
+event 27
+wait 2 12
+event 15
+wait 1 34
+event 3
+wait 27 40
+end 34
+event 17
+wait 17 73
+event 26
+wait 34 79
+event 1
+wait 25 34
+event 17
+wait 24 73
+end 79
+end 12
+event 25
+wait 5 34
+event 27
+wait 9 40
+event 2
+event 5
+wait 31 12
+event 31
+event 34
+wait 19 79
+wait 16 12
+wait 28 34
+event 24
+wait 6 73
+event 19
+wait 28 79
+end 73
+event 9
+wait 6 40
+event 28
+wait 3 79
+wait 20 34
+end 12
+event 6
+wait 21 73
+wait 27 40
+event 21
+wait 11 73
+event 3
+wait 20 79
+event 11
+wait 6 73
+end 79
+end 34
+event 27
+wait 22 40
+event 20
+wait 19 79
+wait 14 34
+event 14
+wait 30 34
+event 19
+wait 33 79
+event 33
+wait 0 79
+end 12
+event 30
+wait 26 34
+end 73
+end 40
+end 73
+end 79
+event 22
+event 0
+wait 34 40
+wait 34 79
+end 79
+event 26
+wait 6 34
+event 34
+wait 29 79
+wait 9 40
+end 79
+event 9
+wait 24 40
+event 29
+wait 33 79
+event 6
+wait 22 73
+wait 23 34
+end 12
+event 33
+wait 32 79
+event 32
+wait 0 79
+event 24
+wait 18 40
+event 23
+wait 11 34
+end 79
+event 11
+wait 8 34
+event 8
+wait 28 34
+event 16
+wait 8 12
+event 28
+wait 34 34
+event 18
+wait 4 40
+event 22
+wait 21 73
+event 21
+wait 32 73
+end 79
+event 32
+wait 6 73
+end 40
+event 8
+wait 18 12
+end 73
+event 34
+wait 10 34
+end 34
+end 79
+event 18
+wait 25 12
+event 4
+wait 17 40
+end 12
+event 25
+end 12
+event 10
+wait 16 34
+end 34
+event 6
+wait 11 73
+end 79
+event 0
+wait 27 79
+event 16
+wait 29 34
+event 17
+wait 4 40
+end 40
+end 73
+end 40
+event 4
+wait 2 40
+event 27
+wait 14 79
+event 11
+wait 26 73
+event 29
+wait 20 34
+end 40
+event 20
+wait 11 34
+event 2
+end 40
+event 14
+wait 18 79
+event 26
+wait 7 73
+event 18
+wait 20 79
+event 7
+wait 22 73
+event 20
+wait 25 79
+event 25
+wait 6 79
+event 11
+wait 24 34
+event 22
+wait 21 73
+end 79
+event 21
+wait 11 73
+event 11
+wait 19 73
+event 19
+wait 15 73
+event 15
+wait 18 73
+event 6
+wait 2 79
+end 34
+end 79
+event 18
+wait 2 73
+end 34
+event 2
+wait 7 79
+wait 34 73
+event 24
+wait 10 34
+end 73
+end 34
+event 34
+wait 23 73
+end 34
+event 10
+wait 3 34
+end 79
+event 7
+wait 13 79
+event 13
+wait 28 79
+end 79
+event 3
+wait 27 34
+event 27
+wait 23 34
+end 79
+event 28
+wait 5 79
+event 23
+wait 13 73
+wait 20 34
+event 13
+wait 0 73
+end 79
+end 73
+event 0
+wait 16 73
+event 5
+wait 6 79
+event 20
+wait 34 34
+event 34
+wait 2 34
+event 6
+wait 28 79
+event 16
+wait 32 73
+end 73
+event 32
+wait 13 73
+event 2
+wait 5 34
+end 34
+event 28
+wait 29 79
+event 29
+wait 26 79
+event 13
+wait 12 73
+event 26
+event 5
+wait 11 79
+wait 4 34
+end 73
+event 12
+wait 7 73
+end 79
+event 4
+event 11
+wait 34 79
+wait 14 34
+event 14
+wait 10 34
+event 7
+wait 16 73
+event 10
+wait 8 34
+event 16
+wait 26 73
+event 8
+wait 4 34
+event 26
+wait 20 73
+event 4
+wait 24 34
+event 20
+wait 12 73
+end 34
+event 34
+wait 19 79
+event 19
+wait 5 79
+event 5
+wait 33 79
+event 12
+wait 13 73
+end 34
+event 33
+wait 10 79
+end 79
+event 10
+wait 18 79
+event 13
+wait 1 73
+event 24
+wait 26 34
+event 26
+wait 12 34
+event 18
+wait 19 79
+event 1
+wait 30 73
+end 79
+end 34
+event 30
+wait 10 73
+event 12
+wait 13 34
+end 34
+event 13
+wait 21 34
+event 21
+wait 11 34
+end 73
+event 19
+wait 27 79
+event 11
+wait 13 34
+event 10
+wait 14 73
+event 27
+event 14
+wait 2 79
+wait 28 73
+event 13
+wait 4 34
+event 2
+wait 8 79
+event 28
+event 4
+wait 16 34
+wait 28 73
+event 8
+wait 4 79
+end 73
+event 28
+wait 15 73
+event 16
+wait 23 34
+event 4
+wait 22 79
+end 34
+event 15
+wait 12 73
+event 23
+wait 30 34
+end 73
+event 12
+wait 26 73
+event 30
+wait 26 34
+end 73
+event 22
+wait 0 79
+event 0
+wait 3 79
+event 26
+end 73
+wait 13 34
+event 3
+wait 19 79
+event 19
+wait 18 79
+end 34
+event 18
+wait 23 79
+event 23
+wait 34 79
+event 13
+wait 27 34
+event 27
+wait 5 34
+event 5
+wait 4 34
+event 4
+wait 25 34
+event 25
+wait 19 34
+event 34
+wait 28 79
+event 28
+wait 27 79
+end 34
+event 27
+wait 24 79
+event 19
+wait 6 34
+end 34
+event 6
+wait 23 34
+end 34
+event 23
+wait 23 34
+event 24
+wait 9 79
+event 9
+wait 26 79
+event 26
+wait 1 79
+end 79
+event 1
+wait 7 79
+end 79
+event 23
+wait 11 34
+event 7
+wait 26 79
+event 11
+wait 11 34
+event 11
+wait 2 34
+event 26
+wait 10 79
+event 10
+wait 3 79
+event 2
+wait 13 34
+end 79
+event 3
+wait 18 79
+event 13
+wait 0 34
+end 79
+event 0
+wait 6 34
+event 6
+wait 19 34
+event 18
+wait 16 79
+event 16
+wait 16 79
+end 34
+event 19
+wait 23 34
+event 23
+wait 1 34
+event 16
+wait 24 79
+event 24
+wait 17 79
+event 1
+wait 17 34
+end 34
+end 79
+event 17
+end 34
+wait 24 79
+end 79
+event 24
+wait 22 79
+event 22
+wait 7 79
+event 7
+wait 20 79
+event 20
+wait 4 79
+end 79
+event 4
+wait 33 79
+end 79
+event 33
+wait 34 79
+event 34
+wait 18 79
+end 79
+event 18
+end 79
+
