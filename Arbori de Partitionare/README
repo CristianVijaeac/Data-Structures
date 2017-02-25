@@ -1,0 +1,60 @@
+Fisier "StructuraArbore.h"
+	Fisierul mai sus mentionat include librariile necesare rezolvarii acestei teme si structura arborelui.Structura contine 4 elemente de tip intreg pe post de informatie si 2 pointeri pentru fiul stang,respectiv fiul drept.
+	a->coeficientul coordonatei x din ecuatia dreptei a*x+b*y+c=0 si coordonata x a punctului de referinta a regiunii
+	b->coeficientul coordonatei y din ecuatia dreptei a*x+b*y+c=0 si coordonata y a punctului de referinta a regiunii
+	a->coeficientul liber din ecuatia dreptei a*x+b*y+c=0 si indicele regiunii
+	type->tipul elementului 0->dreapta 1->punct/regiune
+
+
+Fisier "tema3.c" 
+
+
+	TArb ConstrFrunza(int a,int b,int c,int type)-functia primeste ca parametrii elementele intregi ce vor fi introduse in frunza.Functia aloca spatiul necesar
+construirii frunzei,verifica daca alocarea s-a facut si introduce elementele intregi in aceasta.Deoarece aceasta functie construieste o frunza,fiul stang si fiul drept vor fi initializati cu NULL.
+
+
+	TArb ConstrArboreDr_1(TArb arb,TArb *aa,FILE *fr,int dreapta[100][3])-functia primeste ca parametrii arborele,adresa arborelui,fisierul din care vom citii structura arborelui ce va fi creat si matricea de coeficienti(liniile reprezinta dreptele iar coloanele coeficientii acestora).La inceput,functia memoreaza indicele dreptei a carei coeficienti vor trebuii inserati in arbore,indicele dupa care recunoasem existenta fiului stang si cel pentru indicele drept.
+		In cazul in care se ajunge la un element NULL,o zona nealocata,functia construieste frunza in acel spatiu.In caz contrar,in functie de existenta fiilor stang si drept se decide pe ce ramura se continua parcurgerea arborelui:
+	-daca exista fiu stang,dar nu si drept,se continua parcurgerea in stanga a arborelui
+	-daca exista fiu drept,dar nu si stang,se continua parcurgerea in dreapta a arborelui
+	-daca exista ambii fii,se face mai intai parcurgerea la stanga si mai apoi la dreapta
+	-in cazul in care nu exista niciunul dintre cei doi fii,acestia vor fi initializati cu NULL
+
+
+	TArb ConstrArboreDr_2(TArb arb,TArb *aa,int a,int b,int c)-functia primeste ca parametrii arborele,adresa arborelui si coeficientii dreptei ce urmeaza a fi inserata in arbore.Functia construieste arborele inserand fiecare dreapta,pe rand,in nodul corespunzator ei.In cazul in care se ajunge intr-o zona nealocata,functia va construii frunza corespunzatoare dreptei apeland functia ConstrFrunza.Parcurgerea dreptei se va face in felul urmator:
+	-daca dreptele au pantele egale,inseamna ca acestea sunt paralele si astfel se va continua parcurgerea in stanga sau in dreaptea nodului actual,in functie de coeficientii "c" ai celor 2 drepte(daca c-ul dreptei din nod e mai mare decat c-ul dreptei de inserat,se va merge in stanga,iar in caz contrar,in dreapta)
+	-daca dreptele nu au pantele egale inseamna ca acestea se intersecteaza intr-un punct si astfel parcurgea se va face si in stanga si in dreapta,mai intai in stanga apoi in dreapta.
+
+	
+	TArb ConstrArborePct(TArb arb,TArb *aa,int x,int y,int ind)-functia primeste ca parametrii arborele,adresa arborelui,coordonatele x si y ale punctelor de referinta si indicele regiunii ce va fi inserata in arbore.Functia construieste frunzele aferente fiecarei regiuni.Daca se ajunge la o zona nealocata,inseamna ca acolo trebuie sa inseram punctul(regiunea) si sa construim frunza.In caz contrar,verificam in ce parte a arborelui continuam parcurgere:
+	-daca ecuatia a*x+b*y+c<0,inseamna ca regiunea se afla in stanga dreptei verificate si astfel se continua cu parcurgerea in stanga
+	-daca ecuatia a*x+b*y+c>0,inseamna ca regiunea se afla in dreapta dreptei verificate si astfel se continua cu parcurgerea in dreapta
+
+
+	void SDR(TArb arb,FILE *fw)-functia primeste ca parametru arborele si fisierul de output in care se va scrie structura arborelui.Arborele se parcurge in postordine(stanga-dreapta-radacina).In cazul in care se gaseste un element NULL,se va afisa null.In cazul in care nodul nu are niciunul din fii si este de tipul 1,inseamna ca este frunza in care este memorata regiunea si astfel se va afisa coordonata x,coordonata y si indicele regiunii conform cerintei.Cand algoritmul se intoarce in radacina,stim ca radacina are intotdeauna memorata o dreapta si in acest caz se vor afisa coeficientii a,b,c conform cerintei.
+
+
+	void RegiuniPuncte(TArb arb,TArb *aa,int x,int y,FILE *fw)-functia primeste ca parametrii arborele,adresa arborelui si coordonatele punctului pentru care trebuie sa cautam regiunea in care se afla,precum si fisierul de output pentru a putea scrie in fisier indicele regiunii cautate.Algoritmul:
+	-verifica daca nodul in care ne aflam are fiu stang si drept,iar daca nu are niciunul din fii si este de tip 1(punct/regiune) inseamna ca am ajuns in frunza cautata si am gasit regiunea.Afisam in fisier indicele regiunii.
+	-decide pe ce parte se va face parcurgerea in continuare a arborelui,in functie de rezultatul ecuatiei a*x+b*y+c(daca ecuatia este <0,se va continua parcurgerea pe partea stanga,iar daca ecuatia este > 0,se va face parcurgerea pe partea dreapta a arborelui)
+	
+	
+	void DistrArb(TArb *aa) -functia primeste ca parametru adresa arborelui si elibereaza memoria ocupata de arbore cu ajutorul functiei DistrNod
+
+	void DistrNod(TArb *aa) -functia primeste ca parametru adresa arborelui si elibereaza memoria ocupata de toate nodurile arborelui.Functia parcurge arborele in mod recursiv,mai intai in stanga,elibereaza memoria,apoi in dreapta.In final,se elibereaza memoria ocupata de radacina si se initializeaza arborele cu NULL.
+
+
+	MAIN
+		-se citeste din linia de comanda modul de rezolvare al problemei(1/2) si se deschid fisierul pentru citire,respectiv scriere
+		-citim din fisier numarul de drepte ce trebuie inserate in arbore.Coeficientii dreptelor se memoreaza intr-o matrice de forma A[numardrepte][3]
+		-se citeste numarul punctelor de referinta ce urmeaza si ele a fi inserate in arbore si se pastreaza in doi vectori coordonatele acestora
+		-in functie de modul in care rezolvam problema(1/2) construim arborele(mai intai inseram dreptele) folosind functia "TArb ConstrArboreDr_1",respectiv 			"TArb ConstrArboreDr_2"
+		-dupa ce arborele a fost construit,pentru fiecare punct de referinta se apeleaza functia "TArb ConstrArborePct" pentru a insera regiunile/punctele in 			arbore
+		-in continuare arborele trebuie afisat si astfel apelam functia "void SDR".
+		-citim numarul de puncte a caror regiune trebuie cautata in arbore
+		-memoram coordonatele punctele in 2 vectori
+		-pentru fiecare punct de forma (x,y) apelam functia "void RegiuniPuncte" care ne scrie in fisier indicele regiunii corespunzatoare fiecarui punct
+		-se inchid cele 2 fisiere,de scriere si citire
+		-se apeleaza functia DistrArb pentru eliberarea memoriei folosite in cursul acestui program
+
+
